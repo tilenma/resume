@@ -1,0 +1,415 @@
+@media screen and (max-width: 786px){
+	.table-responsive {    
+		width: 100%;
+		max-width: 800px;
+	    overflow-x: auto;
+	    overflow-y: auto;
+	}
+	.table thead tr th {
+		max-width: 200px;
+		text-wrap: normal;
+		white-space: normal !important; 
+		word-wrap: break-word;
+	}
+	.table tbody tr td {
+		white-space: normal !important; 
+		word-wrap: break-word;  
+	}
+}
+
+table.boxtable {
+	font-family: Quattrocento Sans;
+	font-size:11px;
+	color:#333333;
+	border-width: 1px;
+	border-color: #666666;	
+	border-collapse: collapse;
+	border-style: solid;
+}
+table.boxtable th {
+	border-width: 0px;
+	padding: 5px;
+	background-color: #dedede;
+}
+table.boxtable td {
+	border-width: 0px;
+	padding: 5px;
+	background-color: #ffffff;
+}
+
+.menuText {
+	font-size: 20px;	
+	color: #ff9933;
+	font-weight: bold;
+}
+
+.formSelect {
+	width: 300px;
+}
+
+.space {
+	width: 50px;
+}
+
+.tabletitle {
+	color: #ffddee;
+	background-color: #007FFF;
+}
+
+.htitle {
+   color: #ffddee;
+   background-color: #007FFF;
+}
+
+mark1 {
+   color: #ff0000;
+   font-weight: bold;
+}
+
+.maptitle {
+	color: #e17009;
+}
+
+.mapdesc {
+	color: #2e6e9e;
+}
+
+.projectdesc {
+	font-size: 24px;	
+	color: #7f00ff;
+	font-weight: bold;
+}
+
+.projectdesc2 {
+	font-size: 20px;	
+	color: #ff9933;
+	font-weight: bold;
+}
+
+.techdesc {
+	font-size: 16px;	
+	color: #00ff80;
+	font-weight: bold;
+}
+
+.boxcontainer {
+    font-size: 16px;	
+	line-height: 18px;
+	padding: .5em .5em .5em .7em;
+	min-height: 0;
+	position: relative;
+	margin-top: 2px;
+	
+	border: 1px solid #32CD32;
+}
+
+.textdesc {
+	font-size: 16px;
+	line-height: 18px;	
+	min-height: 0;
+	color: black;
+}
+
+.menutitlecontainer {
+    font-size: 14px;	
+	line-height: 15px;
+	padding: .5em .5em .5em .7em;
+	min-height: 0;
+	position: relative;
+	margin-top: 2px;
+	
+	border: 1px solid #79b7e7;
+	border-top-right-radius: 5px;
+	border-top-left-radius: 5px;
+}
+
+.menulistcontainer {
+    font-size: 14px;	
+	line-height: 15px;
+	padding: .5em .5em .5em .7em;
+	min-height: 0;
+	position: relative;
+		
+	border: 1px solid #79b7e7;
+	border-top-width: 0px;
+}
+
+.menutitle {
+    font-size: 12px;	
+	line-height: 15px;	
+	font-weight: bold;
+	color: #e17009;
+}
+
+.menusubtitle {
+	font-size: 14px;	
+	line-height: 16px;	
+	color: #1466B8;
+}
+
+.menuitem {
+	font-size: 14px;	
+	line-height: 16px;
+	color:#555;
+	display:inline-block;
+	vertical-align: middle;
+}
+
+.menucheckbox {
+	font-size: 1em;
+	vertical-align: bottom;
+	width: 13px;
+	height: 13px;
+}
+
+.contentsubtitle {
+	font-size: 18px;	
+	line-height: 20px;	
+	color: #1466B8;
+}
+
+.contentitem {
+	font-size: 16px;	
+	line-height: 18px;
+	color:#555;
+	display:inline-block;
+	vertical-align: middle;
+}
+
+.licontentitem {
+	font-size: 16px;
+	line-height: 18px;
+	color:#8080c0;
+}
+
+.contentitemhighlight {
+	font-size: 14px;	
+	line-height: 17px;
+	color:red;
+	display:inline-block;
+	vertical-align: middle;
+}
+
+.texthighlight {
+	color:red;
+	font-weight: bold;
+}
+
+.floating-menu {
+	font-family: sans-serif;
+	background: yellowgreen;
+	padding: 5px;;
+	width: 130px;
+	z-index: 100;
+	position: fixed;
+}
+
+.floating-hidden {
+	font-family: sans-serif;
+	padding: 0px;
+	z-index: 100;
+	position: fixed;
+	height: 0px;
+}
+
+/* bootstrap hack: fix content width inside hidden tabs */
+.tab-content > .tab-pane,
+.pill-content > .pill-pane {
+    display: block;     /* undo display:none          */
+    overflow-y: hidden; /* no-overflow                */
+    height: 0;
+}
+.tab-content > .active,
+.pill-content > .active {
+    height: auto;       /* let the content decide it  */
+} /* bootstrap hack end */
+
+/* openlayer features */
+.map2 {
+	height: 70%;
+	width: 100%;
+}
+
+.map3 {
+	height: 60%;
+	width: 100%;
+}
+
+.map4 {
+	height: 48%;
+	width: 100%;
+}
+
+.buffermap {
+	height: 1px;
+	width: 1px;
+}
+
+.map2:-moz-full-screen {
+  height: 100%;
+}
+.map2:-webkit-full-screen {
+  height: 100%;
+}
+.map2:fullscreen {
+  height: 100%;
+}
+
+.rotate-north {
+  top: 65px;
+  left: .5em;
+}
+.ol-touch .rotate-north {
+  top: 80px;
+}
+
+/* Adjust layouts */
+.nav {
+	margin-bottom: 0px;
+}
+.row-fluid [class*="span"] {
+	min-height: 0px;
+}
+.row {
+	margin-left: 2px;
+	margin-right: 0px;
+}
+
+.col-md-10 {
+	padding-left: 0px;
+	padding-right: 0px;
+}
+
+.narrow {
+	padding-left: 0px;
+	padding-right: 0px;
+}
+
+.verticalnarrow {
+	padding-top: 1px;
+	padding-bottom: 0px;
+}
+
+.vertical30 {
+	height: 300px;
+}
+
+.rightAlign {
+	text-align: right;
+}
+
+.centerAlign {
+	text-align: center;
+}
+
+.noborder {
+	border: 0px;
+	border-top: 0px;
+}
+
+.btn-xs {
+	font-size: 10px;
+}
+
+/* table color */
+.active2 {
+	background-color: #e5e5e5;
+}
+
+.warning2 {
+	background-color: #ece8d3;
+}
+
+.info2{
+	background-color: #e9fdfa;
+}
+
+.success2{
+	background-color: #eff5e8;
+}
+
+.danger2{
+	background-color: #faeeee;
+}
+
+.table thead tr th{
+	padding: 4px;
+}
+.table tbody tr td{
+	padding: 4px;
+}
+
+/* adminpage */
+.select-list {
+    min-width: 300px;
+    width: auto;
+    display: inline;
+}
+
+.demobutton {
+    position: relative;
+    background-color: #4CAF50;
+    border: none;
+    font-size: 16px;
+    color: #FFFFFF;
+    padding: 10px;
+    width: 200px;
+    text-align: center;
+    -webkit-transition-duration: 0.4s; /* Safari */
+    transition-duration: 0.4s;
+    text-decoration: none;
+    overflow: hidden;
+    cursor: pointer;
+}
+
+.demobutton:hover span {
+  padding-right: 50px;
+}
+
+.demobutton span:after {
+  content: '>> Go';
+  position: absolute;
+  opacity: 0;
+  top: 10px;
+  right: -20px;
+  transition: 0.5s;
+}
+
+.demobutton:hover span:after {
+  opacity: 1;
+  right: 0;
+}
+
+.demobutton:after {
+    content: "";
+    background: #90EE90;
+    display: block;
+    position: absolute;
+    padding-top: 300%;
+    padding-left: 350%;
+    margin-left: -20px!important;
+    margin-top: -120%;
+    opacity: 0;
+    transition: all 0.8s
+}
+
+.demobutton:active:after {
+    padding: 0;
+    margin: 0;
+    opacity: 1;
+    transition: 0s
+}
+
+th.wide-0{
+	min-width:50px;
+}
+
+th.wide-1{
+	min-width:100px;
+}
+th.wide-2{
+	min-width:200px;
+}
+th.wide-3{
+	min-width:300px;
+}

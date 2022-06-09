@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:ns2="http://www.google.com/kml/ext/2.2" xmlns:ns3="http://www.w3.org/2005/Atom" xmlns:ns4="urn:oasis:names:tc:ciq:xsdschema:xAL:2.0">
+    <Document>
+        <Schema name="product_view_1" id="product_view_1">
+            <SimpleField type="string" name="id"/>
+            <SimpleField type="string" name="project"/>
+            <SimpleField type="string" name="model"/>
+            <SimpleField type="int" name="productid"/>
+            <SimpleField type="string" name="description"/>
+            <SimpleField type="int" name="sequence"/>
+            <SimpleField type="string" name="time"/>
+            <SimpleField type="float" name="value"/>
+            <SimpleField type="double" name="lon"/>
+            <SimpleField type="double" name="lat"/>
+        </Schema>
+        <Folder>
+            <name>product_view</name>
+            <Placemark id="product_view.fid-4efbc05e_1549daa21a0_6c7f">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#product_view_1">
+                        <SimpleData name="id">738</SimpleData>
+                        <SimpleData name="project">Test15</SimpleData>
+                        <SimpleData name="model">Emergency</SimpleData>
+                        <SimpleData name="productid">28</SimpleData>
+                        <SimpleData name="description">Inhalation dose, thyroid, for children (committed 70a), open area[mSv]</SimpleData>
+                        <SimpleData name="sequence">1</SimpleData>
+                        <SimpleData name="time">2016-02-03T06:52:34Z</SimpleData>
+                        <SimpleData name="value">28092.645</SimpleData>
+                        <SimpleData name="lon">114.54040522832666</SimpleData>
+                        <SimpleData name="lat">22.595460752375338</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Polygon>
+                    <outerBoundaryIs>
+                        <LinearRing>
+                            <tessellate>1</tessellate>
+                            <coordinates>114.53921027842684,22.59431393770056 114.53917015307815,22.59657032110172 114.54160019746774,22.596607562973993 114.54164028329038,22.59435117545251 114.53921027842684,22.59431393770056</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </Placemark>
+            <Placemark id="product_view.fid-4efbc05e_1549daa21a0_6c80">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#product_view_1">
+                        <SimpleData name="id">738</SimpleData>
+                        <SimpleData name="project">Test15</SimpleData>
+                        <SimpleData name="model">Emergency</SimpleData>
+                        <SimpleData name="productid">28</SimpleData>
+                        <SimpleData name="description">Inhalation dose, thyroid, for children (committed 70a), open area[mSv]</SimpleData>
+                        <SimpleData name="sequence">1</SimpleData>
+                        <SimpleData name="time">2016-02-03T06:52:34Z</SimpleData>
+                        <SimpleData name="value">16792.646</SimpleData>
+                        <SimpleData name="lon">114.53799434265663</SimpleData>
+                        <SimpleData name="lat">22.59542378775886</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Polygon>
+                    <outerBoundaryIs>
+                        <LinearRing>
+                            <tessellate>1</tessellate>
+                            <coordinates>114.53679941489594,22.594276956918762 114.53675925033292,22.59653333622799 114.53918928965777,22.59657061452489 114.53922941469521,22.59431423109127 114.53679941489594,22.594276956918762</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </Placemark>
+            <Placemark id="product_view.fid-4efbc05e_1549daa21a0_6c81">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#product_view_1">
+                        <SimpleData name="id">738</SimpleData>
+                        <SimpleData name="project">Test15</SimpleData>
+                        <SimpleData name="model">Emergency</SimpleData>
+                        <SimpleData name="productid">28</SimpleData>
+                        <SimpleData name="description">Inhalation dose, thyroid, for children (committed 70a), open area[mSv]</SimpleData>
+                        <SimpleData name="sequence">1</SimpleData>
+                        <SimpleData name="time">2016-02-03T06:52:34Z</SimpleData>
+                        <SimpleData name="value">19851.51</SimpleData>
+                        <SimpleData name="lon">114.53804010423218</SimpleData>
+                        <SimpleData name="lat">22.59316749222811</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Polygon>
+                    <outerBoundaryIs>
+                        <LinearRing>
+                            <tessellate>1</tessellate>
+                            <coordinates>114.53684519362673,22.5920206631375 114.53680503426462,22.594277043157618 114.53923503407562,22.594314317245242 114.53927515391715,22.592057933100886 114.53684519362673,22.5920206631375</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </Placemark>
+            <Placemark id="product_view.fid-4efbc05e_1549daa21a0_6c82">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#product_view_1">
+                        <SimpleData name="id">738</SimpleData>
+                        <SimpleData name="project">Test15</SimpleData>
+                        <SimpleData name="model">Emergency</SimpleData>
+                        <SimpleData name="productid">28</SimpleData>
+                        <SimpleData name="description">Inhalation dose, thyroid, for children (committed 70a), open area[mSv]</SimpleData>
+                        <SimpleData name="sequence">1</SimpleData>
+                        <SimpleData name="time">2016-02-03T06:52:34Z</SimpleData>
+                        <SimpleData name="value">16390.824</SimpleData>
+                        <SimpleData name="lon">114.53558354888577</SimpleData>
+                        <SimpleData name="lat">22.593129793782474</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Polygon>
+                    <outerBoundaryIs>
+                        <LinearRing>
+                            <tessellate>1</tessellate>
+                            <coordinates>114.53438866083896,22.591982948224192 114.5343484615243,22.594239324070852 114.5367784561699,22.59427663526933 114.5368186159643,22.592020255294337 114.53438866083896,22.591982948224192</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </Placemark>
+            <Placemark id="product_view.fid-4efbc05e_1549daa21a0_6c83">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#product_view_1">
+                        <SimpleData name="id">738</SimpleData>
+                        <SimpleData name="project">Test15</SimpleData>
+                        <SimpleData name="model">Emergency</SimpleData>
+                        <SimpleData name="productid">28</SimpleData>
+                        <SimpleData name="description">Inhalation dose, thyroid, for children (committed 70a), open area[mSv]</SimpleData>
+                        <SimpleData name="sequence">1</SimpleData>
+                        <SimpleData name="time">2016-02-03T06:52:34Z</SimpleData>
+                        <SimpleData name="value">13180.098</SimpleData>
+                        <SimpleData name="lon">114.53562934510997</SimpleData>
+                        <SimpleData name="lat">22.590873501788373</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Polygon>
+                    <outerBoundaryIs>
+                        <LinearRing>
+                            <tessellate>1</tessellate>
+                            <coordinates>114.5344344742133,22.58972665798154 114.53439428010427,22.591983034539144 114.53682423524145,22.592020341524407 114.5368643898352,22.58976396083861 114.5344344742133,22.58972665798154</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </Placemark>
+            <Placemark id="product_view.fid-4efbc05e_1549daa21a0_6c84">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#product_view_1">
+                        <SimpleData name="id">738</SimpleData>
+                        <SimpleData name="project">Test15</SimpleData>
+                        <SimpleData name="model">Emergency</SimpleData>
+                        <SimpleData name="productid">28</SimpleData>
+                        <SimpleData name="description">Inhalation dose, thyroid, for children (committed 70a), open area[mSv]</SimpleData>
+                        <SimpleData name="sequence">1</SimpleData>
+                        <SimpleData name="time">2016-02-03T06:52:34Z</SimpleData>
+                        <SimpleData name="value">12775.749</SimpleData>
+                        <SimpleData name="lon">114.53321839611806</SimpleData>
+                        <SimpleData name="lat">22.590836470246042</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Polygon>
+                    <outerBoundaryIs>
+                        <LinearRing>
+                            <tessellate>1</tessellate>
+                            <coordinates>114.53202354736122,22.58968961028109 114.53198331404606,22.591945982738743 114.53441326410898,22.59198332614223 114.53445345790928,22.58972694955234 114.53202354736122,22.58968961028109</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </Placemark>
+        </Folder>
+    </Document>
+</kml>

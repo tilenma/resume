@@ -1,0 +1,2252 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:ns2="http://www.google.com/kml/ext/2.2" xmlns:ns3="http://www.w3.org/2005/Atom" xmlns:ns4="urn:oasis:names:tc:ciq:xsdschema:xAL:2.0">
+    <Document>
+        <Schema name="product_view_1" id="product_view_1">
+            <SimpleField type="string" name="id"/>
+            <SimpleField type="string" name="project"/>
+            <SimpleField type="string" name="model"/>
+            <SimpleField type="int" name="productid"/>
+            <SimpleField type="string" name="description"/>
+            <SimpleField type="int" name="sequence"/>
+            <SimpleField type="string" name="time"/>
+            <SimpleField type="float" name="value"/>
+            <SimpleField type="double" name="lon"/>
+            <SimpleField type="double" name="lat"/>
+        </Schema>
+        <Folder>
+            <name>product_view</name>
+            <Placemark id="product_view.fid-4efbc05e_1549daa21a0_6f6b">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#product_view_1">
+                        <SimpleData name="id">738</SimpleData>
+                        <SimpleData name="project">Test15</SimpleData>
+                        <SimpleData name="model">Emergency</SimpleData>
+                        <SimpleData name="productid">6</SimpleData>
+                        <SimpleData name="description">Inhalation dose, thyroid, for adults (committed), open air[mSv]</SimpleData>
+                        <SimpleData name="sequence">1</SimpleData>
+                        <SimpleData name="time">2016-02-03T06:52:34Z</SimpleData>
+                        <SimpleData name="value">67.06322</SimpleData>
+                        <SimpleData name="lon">114.28517151154668</SimpleData>
+                        <SimpleData name="lat">22.405195704311428</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Polygon>
+                    <outerBoundaryIs>
+                        <LinearRing>
+                            <tessellate>1</tessellate>
+                            <coordinates>114.27564267173759,22.396008556420075 114.27529061357694,22.414056269024062 114.29470156465584,22.414382608489195 114.2950511222234,22.396334605270027 114.27564267173759,22.396008556420075</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </Placemark>
+            <Placemark id="product_view.fid-4efbc05e_1549daa21a0_6f6c">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#product_view_1">
+                        <SimpleData name="id">738</SimpleData>
+                        <SimpleData name="project">Test15</SimpleData>
+                        <SimpleData name="model">Emergency</SimpleData>
+                        <SimpleData name="productid">6</SimpleData>
+                        <SimpleData name="description">Inhalation dose, thyroid, for adults (committed), open air[mSv]</SimpleData>
+                        <SimpleData name="sequence">1</SimpleData>
+                        <SimpleData name="time">2016-02-03T06:52:34Z</SimpleData>
+                        <SimpleData name="value">84.33899</SimpleData>
+                        <SimpleData name="lon">114.28552244339281</SimpleData>
+                        <SimpleData name="lat">22.387147828584343</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Polygon>
+                    <outerBoundaryIs>
+                        <LinearRing>
+                            <tessellate>1</tessellate>
+                            <coordinates>114.27599467331702,22.377960803418475 114.27564297499181,22.396008561532742 114.29505142548325,22.396334610346383 114.29540062576802,22.378286561689542 114.27599467331702,22.377960803418475</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </Placemark>
+            <Placemark id="product_view.fid-4efbc05e_1549daa21a0_6f6d">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#product_view_1">
+                        <SimpleData name="id">738</SimpleData>
+                        <SimpleData name="project">Test15</SimpleData>
+                        <SimpleData name="model">Emergency</SimpleData>
+                        <SimpleData name="productid">6</SimpleData>
+                        <SimpleData name="description">Inhalation dose, thyroid, for adults (committed), open air[mSv]</SimpleData>
+                        <SimpleData name="sequence">1</SimpleData>
+                        <SimpleData name="time">2016-02-03T06:52:34Z</SimpleData>
+                        <SimpleData name="value">70.38643</SimpleData>
+                        <SimpleData name="lon">114.26610571847914</SimpleData>
+                        <SimpleData name="lat">22.386820599043322</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Polygon>
+                    <outerBoundaryIs>
+                        <LinearRing>
+                            <tessellate>1</tessellate>
+                            <coordinates>114.25657937774855,22.377632557801476 114.25622518034174,22.395680023156103 114.27563327085633,22.39600839792684 114.2759849704305,22.377960639958346 114.25657937774855,22.377632557801476</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </Placemark>
+            <Placemark id="product_view.fid-4efbc05e_1549daa21a0_6f6e">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#product_view_1">
+                        <SimpleData name="id">738</SimpleData>
+                        <SimpleData name="project">Test15</SimpleData>
+                        <SimpleData name="model">Emergency</SimpleData>
+                        <SimpleData name="productid">6</SimpleData>
+                        <SimpleData name="description">Inhalation dose, thyroid, for adults (committed), open air[mSv]</SimpleData>
+                        <SimpleData name="sequence">1</SimpleData>
+                        <SimpleData name="time">2016-02-03T06:52:34Z</SimpleData>
+                        <SimpleData name="value">78.64526</SimpleData>
+                        <SimpleData name="lon">114.26645662331063</SimpleData>
+                        <SimpleData name="lat">22.368775189666515</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Polygon>
+                    <outerBoundaryIs>
+                        <LinearRing>
+                            <tessellate>1</tessellate>
+                            <coordinates>114.25693134978418,22.359587272002134 114.25657751423911,22.377634782870906 114.27598310719928,22.377962865282104 114.27633444746239,22.3599150618723 114.25693134978418,22.359587272002134</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </Placemark>
+            <Placemark id="product_view.fid-4efbc05e_1549daa21a0_6f6f">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#product_view_1">
+                        <SimpleData name="id">738</SimpleData>
+                        <SimpleData name="project">Test15</SimpleData>
+                        <SimpleData name="model">Emergency</SimpleData>
+                        <SimpleData name="productid">6</SimpleData>
+                        <SimpleData name="description">Inhalation dose, thyroid, for adults (committed), open air[mSv]</SimpleData>
+                        <SimpleData name="sequence">1</SimpleData>
+                        <SimpleData name="time">2016-02-03T06:52:34Z</SimpleData>
+                        <SimpleData name="value">73.461914</SimpleData>
+                        <SimpleData name="lon">114.24704745655252</SimpleData>
+                        <SimpleData name="lat">22.36844600761991</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Polygon>
+                    <outerBoundaryIs>
+                        <LinearRing>
+                            <tessellate>1</tessellate>
+                            <coordinates>114.23752361181725,22.3592570762483 114.2371672805558,22.37730429243022 114.25657251128125,22.377634697987688 114.25692634746966,22.359587187194588 114.23752361181725,22.3592570762483</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </Placemark>
+            <Placemark id="product_view.fid-4efbc05e_1549daa21a0_6f70">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#product_view_1">
+                        <SimpleData name="id">738</SimpleData>
+                        <SimpleData name="project">Test15</SimpleData>
+                        <SimpleData name="model">Emergency</SimpleData>
+                        <SimpleData name="productid">6</SimpleData>
+                        <SimpleData name="description">Inhalation dose, thyroid, for adults (committed), open air[mSv]</SimpleData>
+                        <SimpleData name="sequence">1</SimpleData>
+                        <SimpleData name="time">2016-02-03T06:52:34Z</SimpleData>
+                        <SimpleData name="value">72.670105</SimpleData>
+                        <SimpleData name="lon">114.2473984177508</SimpleData>
+                        <SimpleData name="lat">22.350398554159263</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Polygon>
+                    <outerBoundaryIs>
+                        <LinearRing>
+                            <tessellate>1</tessellate>
+                            <coordinates>114.23787563795919,22.341209747247614 114.23751967067355,22.359257008958792 114.25692240625214,22.359587120376442 114.25727588101392,22.34153956412714 114.23787563795919,22.341209747247614</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </Placemark>
+            <Placemark id="product_view.fid-4efbc05e_1549daa21a0_6f71">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#product_view_1">
+                        <SimpleData name="id">738</SimpleData>
+                        <SimpleData name="project">Test15</SimpleData>
+                        <SimpleData name="model">Emergency</SimpleData>
+                        <SimpleData name="productid">6</SimpleData>
+                        <SimpleData name="description">Inhalation dose, thyroid, for adults (committed), open air[mSv]</SimpleData>
+                        <SimpleData name="sequence">1</SimpleData>
+                        <SimpleData name="time">2016-02-03T06:52:34Z</SimpleData>
+                        <SimpleData name="value">74.74072</SimpleData>
+                        <SimpleData name="lon">114.22798913974454</SimpleData>
+                        <SimpleData name="lat">22.350071807161136</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Polygon>
+                    <outerBoundaryIs>
+                        <LinearRing>
+                            <tessellate>1</tessellate>
+                            <coordinates>114.21846778848123,22.3408819884833 114.21810932777763,22.358928953455173 114.23751169934847,22.35926138618921 114.23786766773776,22.341214124609486 114.21846778848123,22.3408819884833</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </Placemark>
+            <Placemark id="product_view.fid-4efbc05e_1549daa21a0_6f72">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#product_view_1">
+                        <SimpleData name="id">738</SimpleData>
+                        <SimpleData name="project">Test15</SimpleData>
+                        <SimpleData name="model">Emergency</SimpleData>
+                        <SimpleData name="productid">6</SimpleData>
+                        <SimpleData name="description">Inhalation dose, thyroid, for adults (committed), open air[mSv]</SimpleData>
+                        <SimpleData name="sequence">1</SimpleData>
+                        <SimpleData name="time">2016-02-03T06:52:34Z</SimpleData>
+                        <SimpleData name="value">66.55332</SimpleData>
+                        <SimpleData name="lon">114.22834788319811</SimpleData>
+                        <SimpleData name="lat">22.332022443550443</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Polygon>
+                    <outerBoundaryIs>
+                        <LinearRing>
+                            <tessellate>1</tessellate>
+                            <coordinates>114.21882759405004,22.322832750617636 114.21846950042728,22.34087976125238 114.23786937940382,22.34121189714228 114.23822498325998,22.32316458997375 114.21882759405004,22.322832750617636</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </Placemark>
+            <Placemark id="product_view.fid-4efbc05e_1549daa21a0_6f73">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#product_view_1">
+                        <SimpleData name="id">738</SimpleData>
+                        <SimpleData name="project">Test15</SimpleData>
+                        <SimpleData name="model">Emergency</SimpleData>
+                        <SimpleData name="productid">6</SimpleData>
+                        <SimpleData name="description">Inhalation dose, thyroid, for adults (committed), open air[mSv]</SimpleData>
+                        <SimpleData name="sequence">1</SimpleData>
+                        <SimpleData name="time">2016-02-03T06:52:34Z</SimpleData>
+                        <SimpleData name="value">74.503784</SimpleData>
+                        <SimpleData name="lon">114.20893862770085</SimpleData>
+                        <SimpleData name="lat">22.3316913678363</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Polygon>
+                    <outerBoundaryIs>
+                        <LinearRing>
+                            <tessellate>1</tessellate>
+                            <coordinates>114.19941976721582,22.322500665125315 114.1990591826107,22.340547376986194 114.21845869487369,22.34088183225094 114.21881678992324,22.32283482178693 114.19941976721582,22.322500665125315</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </Placemark>
+            <Placemark id="product_view.fid-4efbc05e_1549daa21a0_6f74">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#product_view_1">
+                        <SimpleData name="id">738</SimpleData>
+                        <SimpleData name="project">Test15</SimpleData>
+                        <SimpleData name="model">Emergency</SimpleData>
+                        <SimpleData name="productid">6</SimpleData>
+                        <SimpleData name="description">Inhalation dose, thyroid, for adults (committed), open air[mSv]</SimpleData>
+                        <SimpleData name="sequence">1</SimpleData>
+                        <SimpleData name="time">2016-02-03T06:52:34Z</SimpleData>
+                        <SimpleData name="value">54.018105</SimpleData>
+                        <SimpleData name="lon">114.18952943688689</SimpleData>
+                        <SimpleData name="lat">22.331357967289005</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Polygon>
+                    <outerBoundaryIs>
+                        <LinearRing>
+                            <tessellate>1</tessellate>
+                            <coordinates>114.1800120062557,22.322166255909362 114.17964893084164,22.34021266692131 114.19904807383517,22.340549441416936 114.19940865990618,22.32250272973268 114.1800120062557,22.322166255909362</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </Placemark>
+            <Placemark id="product_view.fid-4efbc05e_1549daa21a0_6f75">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#product_view_1">
+                        <SimpleData name="id">738</SimpleData>
+                        <SimpleData name="project">Test15</SimpleData>
+                        <SimpleData name="model">Emergency</SimpleData>
+                        <SimpleData name="productid">6</SimpleData>
+                        <SimpleData name="description">Inhalation dose, thyroid, for adults (committed), open air[mSv]</SimpleData>
+                        <SimpleData name="sequence">1</SimpleData>
+                        <SimpleData name="time">2016-02-03T06:52:34Z</SimpleData>
+                        <SimpleData name="value">60.51814</SimpleData>
+                        <SimpleData name="lon">114.2092971774728</SimpleData>
+                        <SimpleData name="lat">22.31364447324478</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Polygon>
+                    <outerBoundaryIs>
+                        <LinearRing>
+                            <tessellate>1</tessellate>
+                            <coordinates>114.1997793765907,22.30445389712103 114.1994191610646,22.322500654646735 114.21881618376054,22.32283481138073 114.21917391227682,22.30478775532614 114.1997793765907,22.30445389712103</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </Placemark>
+            <Placemark id="product_view.fid-4efbc05e_1549daa21a0_6f76">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#product_view_1">
+                        <SimpleData name="id">738</SimpleData>
+                        <SimpleData name="project">Test15</SimpleData>
+                        <SimpleData name="model">Emergency</SimpleData>
+                        <SimpleData name="productid">6</SimpleData>
+                        <SimpleData name="description">Inhalation dose, thyroid, for adults (committed), open air[mSv]</SimpleData>
+                        <SimpleData name="sequence">1</SimpleData>
+                        <SimpleData name="time">2016-02-03T06:52:34Z</SimpleData>
+                        <SimpleData name="value">73.03496</SimpleData>
+                        <SimpleData name="lon">114.18988805188582</SimpleData>
+                        <SimpleData name="lat">22.313311330361657</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Polygon>
+                    <outerBoundaryIs>
+                        <LinearRing>
+                            <tessellate>1</tessellate>
+                            <coordinates>114.18037167965653,22.304119746440474 114.18000897555754,22.322166203154396 114.19940562915016,22.32250267733953 114.1997658464516,22.304455920027802 114.18037167965653,22.304119746440474</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </Placemark>
+            <Placemark id="product_view.fid-4efbc05e_1549daa21a0_6f77">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#product_view_1">
+                        <SimpleData name="id">738</SimpleData>
+                        <SimpleData name="project">Test15</SimpleData>
+                        <SimpleData name="model">Emergency</SimpleData>
+                        <SimpleData name="productid">6</SimpleData>
+                        <SimpleData name="description">Inhalation dose, thyroid, for adults (committed), open air[mSv]</SimpleData>
+                        <SimpleData name="sequence">1</SimpleData>
+                        <SimpleData name="time">2016-02-03T06:52:34Z</SimpleData>
+                        <SimpleData name="value">58.23764</SimpleData>
+                        <SimpleData name="lon">114.17047884194528</SimpleData>
+                        <SimpleData name="lat">22.312975861567335</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Polygon>
+                    <outerBoundaryIs>
+                        <LinearRing>
+                            <tessellate>1</tessellate>
+                            <coordinates>114.16096389956967,22.30378327095085 114.16059870705305,22.321829424775668 114.17999498898465,22.32216821628498 114.18035769491742,22.304121759793556 114.16096389956967,22.30378327095085</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </Placemark>
+            <Placemark id="product_view.fid-4efbc05e_1549daa21a0_6f78">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#product_view_1">
+                        <SimpleData name="id">738</SimpleData>
+                        <SimpleData name="project">Test15</SimpleData>
+                        <SimpleData name="model">Emergency</SimpleData>
+                        <SimpleData name="productid">6</SimpleData>
+                        <SimpleData name="description">Inhalation dose, thyroid, for adults (committed), open air[mSv]</SimpleData>
+                        <SimpleData name="sequence">1</SimpleData>
+                        <SimpleData name="time">2016-02-03T06:52:34Z</SimpleData>
+                        <SimpleData name="value">70.24725</SimpleData>
+                        <SimpleData name="lon">114.43343348865052</SimpleData>
+                        <SimpleData name="lat">22.529473800740863</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Polygon>
+                    <outerBoundaryIs>
+                        <LinearRing>
+                            <tessellate>1</tessellate>
+                            <coordinates>114.42865973035475,22.524883830416766 114.42849256331792,22.53390866863286 114.43820755315305,22.53406370758368 114.43837409033081,22.525038800613103 114.42865973035475,22.524883830416766</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </Placemark>
+            <Placemark id="product_view.fid-4efbc05e_1549daa21a0_6f79">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#product_view_1">
+                        <SimpleData name="id">738</SimpleData>
+                        <SimpleData name="project">Test15</SimpleData>
+                        <SimpleData name="model">Emergency</SimpleData>
+                        <SimpleData name="productid">6</SimpleData>
+                        <SimpleData name="description">Inhalation dose, thyroid, for adults (committed), open air[mSv]</SimpleData>
+                        <SimpleData name="sequence">1</SimpleData>
+                        <SimpleData name="time">2016-02-03T06:52:34Z</SimpleData>
+                        <SimpleData name="value">87.62288</SimpleData>
+                        <SimpleData name="lon">114.42388154859329</SimpleData>
+                        <SimpleData name="lat">22.520295875012447</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Polygon>
+                    <outerBoundaryIs>
+                        <LinearRing>
+                            <tessellate>1</tessellate>
+                            <coordinates>114.41910841998562,22.515705675291322 114.41894070829308,22.5247304557544 114.42865498320104,22.524886011422243 114.42882206537982,22.515861161953787 114.41910841998562,22.515705675291322</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </Placemark>
+            <Placemark id="product_view.fid-4efbc05e_1549daa21a0_6f7a">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#product_view_1">
+                        <SimpleData name="id">738</SimpleData>
+                        <SimpleData name="project">Test15</SimpleData>
+                        <SimpleData name="model">Emergency</SimpleData>
+                        <SimpleData name="productid">6</SimpleData>
+                        <SimpleData name="description">Inhalation dose, thyroid, for adults (committed), open air[mSv]</SimpleData>
+                        <SimpleData name="sequence">1</SimpleData>
+                        <SimpleData name="time">2016-02-03T06:52:34Z</SimpleData>
+                        <SimpleData name="value">60.49707</SimpleData>
+                        <SimpleData name="lon">114.3950653585127</SimpleData>
+                        <SimpleData name="lat">22.501779487745512</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Polygon>
+                    <outerBoundaryIs>
+                        <LinearRing>
+                            <tessellate>1</tessellate>
+                            <coordinates>114.3902938458722,22.49718857296147 114.39012441777949,22.506213167390452 114.39983717669438,22.50637033968899 114.40000597598889,22.497345675493555 114.3902938458722,22.49718857296147</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </Placemark>
+            <Placemark id="product_view.fid-4efbc05e_1549daa21a0_6f7b">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#product_view_1">
+                        <SimpleData name="id">738</SimpleData>
+                        <SimpleData name="project">Test15</SimpleData>
+                        <SimpleData name="model">Emergency</SimpleData>
+                        <SimpleData name="productid">6</SimpleData>
+                        <SimpleData name="description">Inhalation dose, thyroid, for adults (committed), open air[mSv]</SimpleData>
+                        <SimpleData name="sequence">1</SimpleData>
+                        <SimpleData name="time">2016-02-03T06:52:34Z</SimpleData>
+                        <SimpleData name="value">72.886116</SimpleData>
+                        <SimpleData name="lon">114.38552094480188</SimpleData>
+                        <SimpleData name="lat">22.49259972206099</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Polygon>
+                    <outerBoundaryIs>
+                        <LinearRing>
+                            <tessellate>1</tessellate>
+                            <coordinates>114.38075006067722,22.488008579391938 114.38058009039392,22.497033115100976 114.39029213426097,22.497190802059272 114.39046147609135,22.48816619633321 114.38075006067722,22.488008579391938</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </Placemark>
+            <Placemark id="product_view.fid-4efbc05e_1549daa21a0_6f7c">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#product_view_1">
+                        <SimpleData name="id">738</SimpleData>
+                        <SimpleData name="project">Test15</SimpleData>
+                        <SimpleData name="model">Emergency</SimpleData>
+                        <SimpleData name="productid">6</SimpleData>
+                        <SimpleData name="description">Inhalation dose, thyroid, for adults (committed), open air[mSv]</SimpleData>
+                        <SimpleData name="sequence">1</SimpleData>
+                        <SimpleData name="time">2016-02-03T06:52:34Z</SimpleData>
+                        <SimpleData name="value">90.76188</SimpleData>
+                        <SimpleData name="lon">114.42455288181291</SimpleData>
+                        <SimpleData name="lat">22.484196563588423</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Polygon>
+                    <outerBoundaryIs>
+                        <LinearRing>
+                            <tessellate>1</tessellate>
+                            <coordinates>114.41978083997357,22.4796064794192 114.41961347021017,22.48863130505006 114.42932522900726,22.48878658460232 114.42949197053845,22.479761690000803 114.41978083997357,22.4796064794192</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </Placemark>
+            <Placemark id="product_view.fid-4efbc05e_1549daa21a0_6f7d">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#product_view_1">
+                        <SimpleData name="id">738</SimpleData>
+                        <SimpleData name="project">Test15</SimpleData>
+                        <SimpleData name="model">Emergency</SimpleData>
+                        <SimpleData name="productid">6</SimpleData>
+                        <SimpleData name="description">Inhalation dose, thyroid, for adults (committed), open air[mSv]</SimpleData>
+                        <SimpleData name="sequence">1</SimpleData>
+                        <SimpleData name="time">2016-02-03T06:52:34Z</SimpleData>
+                        <SimpleData name="value">84.75843</SimpleData>
+                        <SimpleData name="lon">114.37597661664424</SimpleData>
+                        <SimpleData name="lat">22.48341722482325</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Polygon>
+                    <outerBoundaryIs>
+                        <LinearRing>
+                            <tessellate>1</tessellate>
+                            <coordinates>114.3712063608026,22.478825854632827 114.37103584891243,22.487850331370286 114.38074717761361,22.488008532512698 114.3809170613962,22.478983985507668 114.3712063608026,22.478825854632827</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </Placemark>
+            <Placemark id="product_view.fid-4efbc05e_1549daa21a0_6f7e">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#product_view_1">
+                        <SimpleData name="id">738</SimpleData>
+                        <SimpleData name="project">Test15</SimpleData>
+                        <SimpleData name="model">Emergency</SimpleData>
+                        <SimpleData name="productid">6</SimpleData>
+                        <SimpleData name="description">Inhalation dose, thyroid, for adults (committed), open air[mSv]</SimpleData>
+                        <SimpleData name="sequence">1</SimpleData>
+                        <SimpleData name="time">2016-02-03T06:52:34Z</SimpleData>
+                        <SimpleData name="value">81.79504</SimpleData>
+                        <SimpleData name="lon">114.41500847212198</SimpleData>
+                        <SimpleData name="lat">22.475018476316436</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Polygon>
+                    <outerBoundaryIs>
+                        <LinearRing>
+                            <tessellate>1</tessellate>
+                            <coordinates>114.41023705819367,22.470428163739218 114.4100691458633,22.479452931419647 114.41978019119883,22.479608725908125 114.41994747564179,22.4705838890064 114.41023705819367,22.470428163739218</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </Placemark>
+            <Placemark id="product_view.fid-4efbc05e_1549daa21a0_6f7f">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#product_view_1">
+                        <SimpleData name="id">738</SimpleData>
+                        <SimpleData name="project">Test15</SimpleData>
+                        <SimpleData name="model">Emergency</SimpleData>
+                        <SimpleData name="productid">6</SimpleData>
+                        <SimpleData name="description">Inhalation dose, thyroid, for adults (committed), open air[mSv]</SimpleData>
+                        <SimpleData name="sequence">1</SimpleData>
+                        <SimpleData name="time">2016-02-03T06:52:34Z</SimpleData>
+                        <SimpleData name="value">95.775246</SimpleData>
+                        <SimpleData name="lon">114.36643213693071</SimpleData>
+                        <SimpleData name="lat">22.474236506407745</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Polygon>
+                    <outerBoundaryIs>
+                        <LinearRing>
+                            <tessellate>1</tessellate>
+                            <coordinates>114.3616625090095,22.469644909040866 114.3614914560427,22.47866932654842 114.37120206977295,22.478828041443414 114.37137249497735,22.469803553417762 114.3616625090095,22.469644909040866</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </Placemark>
+            <Placemark id="product_view.fid-4efbc05e_1549daa21a0_6f80">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#product_view_1">
+                        <SimpleData name="id">738</SimpleData>
+                        <SimpleData name="project">Test15</SimpleData>
+                        <SimpleData name="model">Emergency</SimpleData>
+                        <SimpleData name="productid">6</SimpleData>
+                        <SimpleData name="description">Inhalation dose, thyroid, for adults (committed), open air[mSv]</SimpleData>
+                        <SimpleData name="sequence">1</SimpleData>
+                        <SimpleData name="time">2016-02-03T06:52:34Z</SimpleData>
+                        <SimpleData name="value">51.911835</SimpleData>
+                        <SimpleData name="lon">114.35671990835613</SimpleData>
+                        <SimpleData name="lat">22.474077502622777</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Polygon>
+                    <outerBoundaryIs>
+                        <LinearRing>
+                            <tessellate>1</tessellate>
+                            <coordinates>114.35195063800448,22.46948564879499 114.35177895717307,22.478509995510876 114.36148948358314,22.478669294250164 114.36166053667746,22.469644876756963 114.35195063800448,22.46948564879499</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </Placemark>
+            <Placemark id="product_view.fid-4efbc05e_1549daa21a0_6f81">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#product_view_1">
+                        <SimpleData name="id">738</SimpleData>
+                        <SimpleData name="project">Test15</SimpleData>
+                        <SimpleData name="model">Emergency</SimpleData>
+                        <SimpleData name="productid">6</SimpleData>
+                        <SimpleData name="description">Inhalation dose, thyroid, for adults (committed), open air[mSv]</SimpleData>
+                        <SimpleData name="sequence">1</SimpleData>
+                        <SimpleData name="time">2016-02-03T06:52:34Z</SimpleData>
+                        <SimpleData name="value">73.91659</SimpleData>
+                        <SimpleData name="lon">114.40545656035519</SimpleData>
+                        <SimpleData name="lat">22.46583753459055</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Polygon>
+                    <outerBoundaryIs>
+                        <LinearRing>
+                            <tessellate>1</tessellate>
+                            <coordinates>114.40068577438414,22.461246993768043 114.40051731957963,22.47027170319207 114.41022765126826,22.470428012597427 114.41039547853028,22.46140323370131 114.40068577438414,22.461246993768043</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </Placemark>
+            <Placemark id="product_view.fid-4efbc05e_1549daa21a0_6f82">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#product_view_1">
+                        <SimpleData name="id">738</SimpleData>
+                        <SimpleData name="project">Test15</SimpleData>
+                        <SimpleData name="model">Emergency</SimpleData>
+                        <SimpleData name="productid">6</SimpleData>
+                        <SimpleData name="description">Inhalation dose, thyroid, for adults (committed), open air[mSv]</SimpleData>
+                        <SimpleData name="sequence">1</SimpleData>
+                        <SimpleData name="time">2016-02-03T06:52:34Z</SimpleData>
+                        <SimpleData name="value">61.382725</SimpleData>
+                        <SimpleData name="lon">114.3471755790326</SimpleData>
+                        <SimpleData name="lat">22.464895786815468</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Polygon>
+                    <outerBoundaryIs>
+                        <LinearRing>
+                            <tessellate>1</tessellate>
+                            <coordinates>114.34240693629806,22.46030370641713 114.34223471525785,22.46932799339376 114.35194452643577,22.469487805183153 114.35211612008413,22.46046344717875 114.34240693629806,22.46030370641713</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </Placemark>
+            <Placemark id="product_view.fid-4efbc05e_1549daa21a0_6f83">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#product_view_1">
+                        <SimpleData name="id">738</SimpleData>
+                        <SimpleData name="project">Test15</SimpleData>
+                        <SimpleData name="model">Emergency</SimpleData>
+                        <SimpleData name="productid">6</SimpleData>
+                        <SimpleData name="description">Inhalation dose, thyroid, for adults (committed), open air[mSv]</SimpleData>
+                        <SimpleData name="sequence">1</SimpleData>
+                        <SimpleData name="time">2016-02-03T06:52:34Z</SimpleData>
+                        <SimpleData name="value">66.95639</SimpleData>
+                        <SimpleData name="lon">114.39591208290818</SimpleData>
+                        <SimpleData name="lat">22.456658492708776</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Polygon>
+                    <outerBoundaryIs>
+                        <LinearRing>
+                            <tessellate>1</tessellate>
+                            <coordinates>114.39114192425336,22.452067724186815 114.39097292799556,22.461092375150262 114.40068254629857,22.46124919858486 114.4008509153586,22.452224477898767 114.39114192425336,22.452067724186815</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </Placemark>
+            <Placemark id="product_view.fid-4efbc05e_1549daa21a0_6f84">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#product_view_1">
+                        <SimpleData name="id">738</SimpleData>
+                        <SimpleData name="project">Test15</SimpleData>
+                        <SimpleData name="model">Emergency</SimpleData>
+                        <SimpleData name="productid">6</SimpleData>
+                        <SimpleData name="description">Inhalation dose, thyroid, for adults (committed), open air[mSv]</SimpleData>
+                        <SimpleData name="sequence">1</SimpleData>
+                        <SimpleData name="time">2016-02-03T06:52:34Z</SimpleData>
+                        <SimpleData name="value">70.675896</SimpleData>
+                        <SimpleData name="lon">114.33763118293098</SimpleData>
+                        <SimpleData name="lat">22.455711339144077</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Polygon>
+                    <outerBoundaryIs>
+                        <LinearRing>
+                            <tessellate>1</tessellate>
+                            <coordinates>114.33286316758601,22.45111903253503 114.33269040691096,22.460143259519697 114.34239950273782,22.460303583892177 114.34257163636634,22.451279285629354 114.33286316758601,22.45111903253503</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </Placemark>
+            <Placemark id="product_view.fid-4efbc05e_1549daa21a0_6f85">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#product_view_1">
+                        <SimpleData name="id">738</SimpleData>
+                        <SimpleData name="project">Test15</SimpleData>
+                        <SimpleData name="model">Emergency</SimpleData>
+                        <SimpleData name="productid">6</SimpleData>
+                        <SimpleData name="description">Inhalation dose, thyroid, for adults (committed), open air[mSv]</SimpleData>
+                        <SimpleData name="sequence">1</SimpleData>
+                        <SimpleData name="time">2016-02-03T06:52:34Z</SimpleData>
+                        <SimpleData name="value">60.77813</SimpleData>
+                        <SimpleData name="lon">114.38636784048289</SimpleData>
+                        <SimpleData name="lat">22.44747672210176</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Polygon>
+                    <outerBoundaryIs>
+                        <LinearRing>
+                            <tessellate>1</tessellate>
+                            <coordinates>114.38159830890619,22.44288572624792 114.38142877178801,22.45191031850026 114.39113767658861,22.452067655479468 114.39130658685386,22.443042993253993 114.38159830890619,22.44288572624792</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </Placemark>
+            <Placemark id="product_view.fid-4efbc05e_1549daa21a0_6f86">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#product_view_1">
+                        <SimpleData name="id">738</SimpleData>
+                        <SimpleData name="project">Test15</SimpleData>
+                        <SimpleData name="model">Emergency</SimpleData>
+                        <SimpleData name="productid">6</SimpleData>
+                        <SimpleData name="description">Inhalation dose, thyroid, for adults (committed), open air[mSv]</SimpleData>
+                        <SimpleData name="sequence">1</SimpleData>
+                        <SimpleData name="time">2016-02-03T06:52:34Z</SimpleData>
+                        <SimpleData name="value">79.23589</SimpleData>
+                        <SimpleData name="lon">114.32809456462516</SimpleData>
+                        <SimpleData name="lat">22.44652654691571</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Polygon>
+                    <outerBoundaryIs>
+                        <LinearRing>
+                            <tessellate>1</tessellate>
+                            <coordinates>114.32332717608426,22.441934014656066 114.32315387683545,22.450958181451444 114.3328622574212,22.45111901748398 114.33303492996869,22.44209477916029 114.32332717608426,22.441934014656066</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </Placemark>
+            <Placemark id="product_view.fid-4efbc05e_1549daa21a0_6f87">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#product_view_1">
+                        <SimpleData name="id">738</SimpleData>
+                        <SimpleData name="project">Test15</SimpleData>
+                        <SimpleData name="model">Emergency</SimpleData>
+                        <SimpleData name="productid">6</SimpleData>
+                        <SimpleData name="description">Inhalation dose, thyroid, for adults (committed), open air[mSv]</SimpleData>
+                        <SimpleData name="sequence">1</SimpleData>
+                        <SimpleData name="time">2016-02-03T06:52:34Z</SimpleData>
+                        <SimpleData name="value">55.271305</SimpleData>
+                        <SimpleData name="lon">114.3768234872173</SimpleData>
+                        <SimpleData name="lat">22.438294474632333</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Polygon>
+                    <outerBoundaryIs>
+                        <LinearRing>
+                            <tessellate>1</tessellate>
+                            <coordinates>114.37205458242406,22.43370325179888 114.37188450499718,22.44272778508458 114.38159269633303,22.442885635159364 114.38176214725172,22.433861031650057 114.37205458242406,22.43370325179888</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </Placemark>
+            <Placemark id="product_view.fid-4efbc05e_1549daa21a0_6f88">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#product_view_1">
+                        <SimpleData name="id">738</SimpleData>
+                        <SimpleData name="project">Test15</SimpleData>
+                        <SimpleData name="model">Emergency</SimpleData>
+                        <SimpleData name="productid">6</SimpleData>
+                        <SimpleData name="description">Inhalation dose, thyroid, for adults (committed), open air[mSv]</SimpleData>
+                        <SimpleData name="sequence">1</SimpleData>
+                        <SimpleData name="time">2016-02-03T06:52:34Z</SimpleData>
+                        <SimpleData name="value">98.99192</SimpleData>
+                        <SimpleData name="lon">114.36711121114593</SimpleData>
+                        <SimpleData name="lat">22.43813855272885</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Polygon>
+                    <outerBoundaryIs>
+                        <LinearRing>
+                            <tessellate>1</tessellate>
+                            <coordinates>114.36234266310646,22.433547073723474 114.36217195889085,22.442571536491656 114.37188006346236,22.442729969558588 114.37205014119483,22.433705436307587 114.36234266310646,22.433547073723474</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </Placemark>
+            <Placemark id="product_view.fid-4efbc05e_1549daa21a0_6f89">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#product_view_1">
+                        <SimpleData name="id">738</SimpleData>
+                        <SimpleData name="project">Test15</SimpleData>
+                        <SimpleData name="model">Emergency</SimpleData>
+                        <SimpleData name="productid">6</SimpleData>
+                        <SimpleData name="description">Inhalation dose, thyroid, for adults (committed), open air[mSv]</SimpleData>
+                        <SimpleData name="sequence">1</SimpleData>
+                        <SimpleData name="time">2016-02-03T06:52:34Z</SimpleData>
+                        <SimpleData name="value">85.128845</SimpleData>
+                        <SimpleData name="lon">114.31855005583219</SimpleData>
+                        <SimpleData name="lat">22.43734340836263</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Polygon>
+                    <outerBoundaryIs>
+                        <LinearRing>
+                            <tessellate>1</tessellate>
+                            <coordinates>114.31378329401808,22.432750650593515 114.31360945622552,22.4417747568843 114.32331712169476,22.441936104610047 114.32349033313119,22.432911926540626 114.31378329401808,22.432750650593515</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </Placemark>
+            <Placemark id="product_view.fid-4efbc05e_1549daa21a0_6f8a">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#product_view_1">
+                        <SimpleData name="id">738</SimpleData>
+                        <SimpleData name="project">Test15</SimpleData>
+                        <SimpleData name="model">Emergency</SimpleData>
+                        <SimpleData name="productid">6</SimpleData>
+                        <SimpleData name="description">Inhalation dose, thyroid, for adults (committed), open air[mSv]</SimpleData>
+                        <SimpleData name="sequence">1</SimpleData>
+                        <SimpleData name="time">2016-02-03T06:52:34Z</SimpleData>
+                        <SimpleData name="value">50.340652</SimpleData>
+                        <SimpleData name="lon">114.3672867155437</SimpleData>
+                        <SimpleData name="lat">22.429114133155508</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Polygon>
+                    <outerBoundaryIs>
+                        <LinearRing>
+                            <tessellate>1</tessellate>
+                            <coordinates>114.36251843688781,22.424522683891286 114.36234782018106,22.43354715800821 114.37205529831569,22.433705520282917 114.3722252888589,22.424680975692134 114.36251843688781,22.424522683891286</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </Placemark>
+            <Placemark id="product_view.fid-4efbc05e_1549daa21a0_6f8b">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#product_view_1">
+                        <SimpleData name="id">738</SimpleData>
+                        <SimpleData name="project">Test15</SimpleData>
+                        <SimpleData name="model">Emergency</SimpleData>
+                        <SimpleData name="productid">6</SimpleData>
+                        <SimpleData name="description">Inhalation dose, thyroid, for adults (committed), open air[mSv]</SimpleData>
+                        <SimpleData name="sequence">1</SimpleData>
+                        <SimpleData name="time">2016-02-03T06:52:34Z</SimpleData>
+                        <SimpleData name="value">90.75513</SimpleData>
+                        <SimpleData name="lon">114.35757443720397</SimpleData>
+                        <SimpleData name="lat">22.42895543054618</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Polygon>
+                    <outerBoundaryIs>
+                        <LinearRing>
+                            <tessellate>1</tessellate>
+                            <coordinates>114.35280651537192,22.42436372536284 114.35263527219426,22.433388128709264 114.36234266310646,22.433547073723474 114.36251328014585,22.424522599644042 114.35280651537192,22.42436372536284</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </Placemark>
+            <Placemark id="product_view.fid-4efbc05e_1549daa21a0_6f8c">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#product_view_1">
+                        <SimpleData name="id">738</SimpleData>
+                        <SimpleData name="project">Test15</SimpleData>
+                        <SimpleData name="model">Emergency</SimpleData>
+                        <SimpleData name="productid">6</SimpleData>
+                        <SimpleData name="description">Inhalation dose, thyroid, for adults (committed), open air[mSv]</SimpleData>
+                        <SimpleData name="sequence">1</SimpleData>
+                        <SimpleData name="time">2016-02-03T06:52:34Z</SimpleData>
+                        <SimpleData name="value">84.53183</SimpleData>
+                        <SimpleData name="lon">114.30901336611967</SimpleData>
+                        <SimpleData name="lat">22.428157671171125</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Polygon>
+                    <outerBoundaryIs>
+                        <LinearRing>
+                            <tessellate>1</tessellate>
+                            <coordinates>114.30424723051419,22.423564688459788 114.30407285526039,22.43258873405185 114.31377980556685,22.432750592530276 114.3139535548097,22.42372647490949 114.30424723051419,22.423564688459788</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </Placemark>
+            <Placemark id="product_view.fid-4efbc05e_1549daa21a0_6f8d">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#product_view_1">
+                        <SimpleData name="id">738</SimpleData>
+                        <SimpleData name="project">Test15</SimpleData>
+                        <SimpleData name="model">Emergency</SimpleData>
+                        <SimpleData name="productid">6</SimpleData>
+                        <SimpleData name="description">Inhalation dose, thyroid, for adults (committed), open air[mSv]</SimpleData>
+                        <SimpleData name="sequence">1</SimpleData>
+                        <SimpleData name="time">2016-02-03T06:52:34Z</SimpleData>
+                        <SimpleData name="value">82.62443</SimpleData>
+                        <SimpleData name="lon">114.34803007627865</SimpleData>
+                        <SimpleData name="lat">22.41977396784529</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Polygon>
+                    <outerBoundaryIs>
+                        <LinearRing>
+                            <tessellate>1</tessellate>
+                            <coordinates>114.34326278056528,22.415182036632956 114.34309099847549,22.424206380245156 114.352797675856,22.424365837221227 114.35296883215221,22.415341422625648 114.34326278056528,22.415182036632956</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </Placemark>
+            <Placemark id="product_view.fid-4efbc05e_1549daa21a0_6f8e">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#product_view_1">
+                        <SimpleData name="id">738</SimpleData>
+                        <SimpleData name="project">Test15</SimpleData>
+                        <SimpleData name="model">Emergency</SimpleData>
+                        <SimpleData name="productid">6</SimpleData>
+                        <SimpleData name="description">Inhalation dose, thyroid, for adults (committed), open air[mSv]</SimpleData>
+                        <SimpleData name="sequence">1</SimpleData>
+                        <SimpleData name="time">2016-02-03T06:52:34Z</SimpleData>
+                        <SimpleData name="value">75.07201</SimpleData>
+                        <SimpleData name="lon">114.29947667205279</SimpleData>
+                        <SimpleData name="lat">22.418973719843894</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Polygon>
+                    <outerBoundaryIs>
+                        <LinearRing>
+                            <tessellate>1</tessellate>
+                            <coordinates>114.29471116228841,22.414380512538877 114.29453625011193,22.42340449717536 114.30424248545216,22.423566865966247 114.30441677196278,22.41454280905099 114.29471116228841,22.414380512538877</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </Placemark>
+            <Placemark id="product_view.fid-4efbc05e_1549daa21a0_6f8f">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#product_view_1">
+                        <SimpleData name="id">738</SimpleData>
+                        <SimpleData name="project">Test15</SimpleData>
+                        <SimpleData name="model">Emergency</SimpleData>
+                        <SimpleData name="productid">6</SimpleData>
+                        <SimpleData name="description">Inhalation dose, thyroid, for adults (committed), open air[mSv]</SimpleData>
+                        <SimpleData name="sequence">1</SimpleData>
+                        <SimpleData name="time">2016-02-03T06:52:34Z</SimpleData>
+                        <SimpleData name="value">72.77927</SimpleData>
+                        <SimpleData name="lon">114.33849333729779</SimpleData>
+                        <SimpleData name="lat">22.410592157782272</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Polygon>
+                    <outerBoundaryIs>
+                        <LinearRing>
+                            <tessellate>1</tessellate>
+                            <coordinates>114.33372666712441,22.40600000109666 114.33355434717224,22.415024284775946 114.34326031112872,22.41518425280104 114.34343200563198,22.406159897888212 114.33372666712441,22.40600000109666</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </Placemark>
+            <Placemark id="product_view.fid-4efbc05e_1549daa21a0_6f90">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#product_view_1">
+                        <SimpleData name="id">738</SimpleData>
+                        <SimpleData name="project">Test15</SimpleData>
+                        <SimpleData name="model">Emergency</SimpleData>
+                        <SimpleData name="productid">6</SimpleData>
+                        <SimpleData name="description">Inhalation dose, thyroid, for adults (committed), open air[mSv]</SimpleData>
+                        <SimpleData name="sequence">1</SimpleData>
+                        <SimpleData name="time">2016-02-03T06:52:34Z</SimpleData>
+                        <SimpleData name="value">93.90534</SimpleData>
+                        <SimpleData name="lon">114.29965213666716</SimpleData>
+                        <SimpleData name="lat">22.40994970857749</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Polygon>
+                    <outerBoundaryIs>
+                        <LinearRing>
+                            <tessellate>1</tessellate>
+                            <coordinates>114.29488689494076,22.405356531772068 114.29471207218513,22.414380527781443 114.30441768186785,22.414542824239017 114.3045918792769,22.405518755959903 114.29488689494076,22.405356531772068</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </Placemark>
+            <Placemark id="product_view.fid-4efbc05e_1549daa21a0_6f91">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#product_view_1">
+                        <SimpleData name="id">738</SimpleData>
+                        <SimpleData name="project">Test15</SimpleData>
+                        <SimpleData name="model">Emergency</SimpleData>
+                        <SimpleData name="productid">6</SimpleData>
+                        <SimpleData name="description">Inhalation dose, thyroid, for adults (committed), open air[mSv]</SimpleData>
+                        <SimpleData name="sequence">1</SimpleData>
+                        <SimpleData name="time">2016-02-03T06:52:34Z</SimpleData>
+                        <SimpleData name="value">59.63081</SimpleData>
+                        <SimpleData name="lon">114.3289566793216</SimpleData>
+                        <SimpleData name="lat">22.401407620728243</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Polygon>
+                    <outerBoundaryIs>
+                        <LinearRing>
+                            <tessellate>1</tessellate>
+                            <coordinates>114.32419063445525,22.396815238932884 114.3240177772233,22.40583946242801 114.33372302763898,22.405999941026273 114.33389525976672,22.396975646047526 114.32419063445525,22.396815238932884</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </Placemark>
+            <Placemark id="product_view.fid-4efbc05e_1549daa21a0_6f92">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#product_view_1">
+                        <SimpleData name="id">738</SimpleData>
+                        <SimpleData name="project">Test15</SimpleData>
+                        <SimpleData name="model">Emergency</SimpleData>
+                        <SimpleData name="productid">6</SimpleData>
+                        <SimpleData name="description">Inhalation dose, thyroid, for adults (committed), open air[mSv]</SimpleData>
+                        <SimpleData name="sequence">1</SimpleData>
+                        <SimpleData name="time">2016-02-03T06:52:34Z</SimpleData>
+                        <SimpleData name="value">81.126205</SimpleData>
+                        <SimpleData name="lon">114.31924435538193</SimpleData>
+                        <SimpleData name="lat">22.401246763868013</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Polygon>
+                    <outerBoundaryIs>
+                        <LinearRing>
+                            <tessellate>1</tessellate>
+                            <coordinates>114.3144786674943,22.396654127030697 114.3143051847051,22.405678278728253 114.32401034667475,22.405839339338776 114.32418320438529,22.39681511589848 114.3144786674943,22.396654127030697</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </Placemark>
+            <Placemark id="product_view.fid-4efbc05e_1549daa21a0_6f93">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#product_view_1">
+                        <SimpleData name="id">738</SimpleData>
+                        <SimpleData name="project">Test15</SimpleData>
+                        <SimpleData name="model">Emergency</SimpleData>
+                        <SimpleData name="productid">6</SimpleData>
+                        <SimpleData name="description">Inhalation dose, thyroid, for adults (committed), open air[mSv]</SimpleData>
+                        <SimpleData name="sequence">1</SimpleData>
+                        <SimpleData name="time">2016-02-03T06:52:34Z</SimpleData>
+                        <SimpleData name="value">94.37538</SimpleData>
+                        <SimpleData name="lon">114.30953981013548</SimpleData>
+                        <SimpleData name="lat">22.401087709499485</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Polygon>
+                    <outerBoundaryIs>
+                        <LinearRing>
+                            <tessellate>1</tessellate>
+                            <coordinates>114.30477447902216,22.396494817956047 114.3046003711772,22.40551889765144 114.31430544460827,22.405680539806983 114.31447892740012,22.39665638811001 114.30477447902216,22.396494817956047</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </Placemark>
+            <Placemark id="product_view.fid-4efbc05e_1549daa21a0_6f94">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#product_view_1">
+                        <SimpleData name="id">738</SimpleData>
+                        <SimpleData name="project">Test15</SimpleData>
+                        <SimpleData name="model">Emergency</SimpleData>
+                        <SimpleData name="productid">6</SimpleData>
+                        <SimpleData name="description">Inhalation dose, thyroid, for adults (committed), open air[mSv]</SimpleData>
+                        <SimpleData name="sequence">1</SimpleData>
+                        <SimpleData name="time">2016-02-03T06:52:34Z</SimpleData>
+                        <SimpleData name="value">95.00284</SimpleData>
+                        <SimpleData name="lon">114.29982751197463</SimpleData>
+                        <SimpleData name="lat">22.400925685937903</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Polygon>
+                    <outerBoundaryIs>
+                        <LinearRing>
+                            <tessellate>1</tessellate>
+                            <coordinates>114.29506253813949,22.396332539629476 114.29488780477885,22.405356547007838 114.30459278912335,22.405518771141164 114.30476689745662,22.396494691502127 114.29506253813949,22.396332539629476</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </Placemark>
+            <Placemark id="product_view.fid-4efbc05e_1549daa21a0_6f95">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#product_view_1">
+                        <SimpleData name="id">738</SimpleData>
+                        <SimpleData name="project">Test15</SimpleData>
+                        <SimpleData name="model">Emergency</SimpleData>
+                        <SimpleData name="productid">6</SimpleData>
+                        <SimpleData name="description">Inhalation dose, thyroid, for adults (committed), open air[mSv]</SimpleData>
+                        <SimpleData name="sequence">1</SimpleData>
+                        <SimpleData name="time">2016-02-03T06:52:34Z</SimpleData>
+                        <SimpleData name="value">63.892826</SimpleData>
+                        <SimpleData name="lon">114.30970764758078</SimpleData>
+                        <SimpleData name="lat">22.392063489674328</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Polygon>
+                    <outerBoundaryIs>
+                        <LinearRing>
+                            <tessellate>1</tessellate>
+                            <coordinates>114.30494258463546,22.387470628321378 114.30476856540102,22.396494719322042 114.31447301372485,22.396656289830197 114.31464640822527,22.387632126836788 114.30494258463546,22.387470628321378</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </Placemark>
+            <Placemark id="product_view.fid-4efbc05e_1549daa21a0_6f96">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#product_view_1">
+                        <SimpleData name="id">738</SimpleData>
+                        <SimpleData name="project">Test15</SimpleData>
+                        <SimpleData name="model">Emergency</SimpleData>
+                        <SimpleData name="productid">6</SimpleData>
+                        <SimpleData name="description">Inhalation dose, thyroid, for adults (committed), open air[mSv]</SimpleData>
+                        <SimpleData name="sequence">1</SimpleData>
+                        <SimpleData name="time">2016-02-03T06:52:34Z</SimpleData>
+                        <SimpleData name="value">79.269485</SimpleData>
+                        <SimpleData name="lon">114.30000310125254</SimpleData>
+                        <SimpleData name="lat">22.39190165699517</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Polygon>
+                    <outerBoundaryIs>
+                        <LinearRing>
+                            <tessellate>1</tessellate>
+                            <coordinates>114.29523839515085,22.387308541189114 114.29506375117882,22.396332559934773 114.3047681105071,22.39649471173478 114.30494212977081,22.3874706207375 114.29523839515085,22.387308541189114</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </Placemark>
+            <Placemark id="product_view.fid-4efbc05e_1549daa21a0_6f97">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#product_view_1">
+                        <SimpleData name="id">738</SimpleData>
+                        <SimpleData name="project">Test15</SimpleData>
+                        <SimpleData name="model">Emergency</SimpleData>
+                        <SimpleData name="productid">6</SimpleData>
+                        <SimpleData name="description">Inhalation dose, thyroid, for adults (committed), open air[mSv]</SimpleData>
+                        <SimpleData name="sequence">1</SimpleData>
+                        <SimpleData name="time">2016-02-03T06:52:34Z</SimpleData>
+                        <SimpleData name="value">55.23394</SimpleData>
+                        <SimpleData name="lon">114.30017860123614</SimpleData>
+                        <SimpleData name="lat">22.382877616682563</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Polygon>
+                    <outerBoundaryIs>
+                        <LinearRing>
+                            <tessellate>1</tessellate>
+                            <coordinates>114.29541416272133,22.378284531376305 114.29523960811213,22.387308561485373 114.30494334274321,22.38747064096112 114.30511727296317,22.378446538609488 114.29541416272133,22.378284531376305</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </Placemark>
+            <Placemark id="product_view.fid-4efbc05e_1549daa21a0_6f98">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#product_view_1">
+                        <SimpleData name="id">738</SimpleData>
+                        <SimpleData name="project">Test15</SimpleData>
+                        <SimpleData name="model">Emergency</SimpleData>
+                        <SimpleData name="productid">6</SimpleData>
+                        <SimpleData name="description">Inhalation dose, thyroid, for adults (committed), open air[mSv]</SimpleData>
+                        <SimpleData name="sequence">1</SimpleData>
+                        <SimpleData name="time">2016-02-03T06:52:34Z</SimpleData>
+                        <SimpleData name="value">58.80378</SimpleData>
+                        <SimpleData name="lon">114.0277939202791</SimpleData>
+                        <SimpleData name="lat">22.175053674184706</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Polygon>
+                    <outerBoundaryIs>
+                        <LinearRing>
+                            <tessellate>1</tessellate>
+                            <coordinates>114.00880236995376,22.156655280474617 114.00803809602687,22.192743288164934 114.04679023968517,22.19345116480006 114.047544649978,22.157361886773728 114.00880236995376,22.156655280474617</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </Placemark>
+            <Placemark id="product_view.fid-4efbc05e_1549daa21a0_6f99">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#product_view_1">
+                        <SimpleData name="id">738</SimpleData>
+                        <SimpleData name="project">Test15</SimpleData>
+                        <SimpleData name="model">Emergency</SimpleData>
+                        <SimpleData name="productid">6</SimpleData>
+                        <SimpleData name="description">Inhalation dose, thyroid, for adults (committed), open air[mSv]</SimpleData>
+                        <SimpleData name="sequence">1</SimpleData>
+                        <SimpleData name="time">2016-02-03T06:52:34Z</SimpleData>
+                        <SimpleData name="value">53.83108</SimpleData>
+                        <SimpleData name="lon">113.98978429301391</SimpleData>
+                        <SimpleData name="lat">22.138260565070752</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Polygon>
+                    <outerBoundaryIs>
+                        <LinearRing>
+                            <tessellate>1</tessellate>
+                            <coordinates>113.97080259256508,22.119858768682658 113.97003003907025,22.15594567369559 114.00877074933136,22.15666146914236 114.0095334612225,22.12057327792099 113.97080259256508,22.119858768682658</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </Placemark>
+            <Placemark id="product_view.fid-4efbc05e_1549daa21a0_6f9a">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#product_view_1">
+                        <SimpleData name="id">738</SimpleData>
+                        <SimpleData name="project">Test15</SimpleData>
+                        <SimpleData name="model">Emergency</SimpleData>
+                        <SimpleData name="productid">6</SimpleData>
+                        <SimpleData name="description">Inhalation dose, thyroid, for adults (committed), open air[mSv]</SimpleData>
+                        <SimpleData name="sequence">1</SimpleData>
+                        <SimpleData name="time">2016-02-03T06:52:34Z</SimpleData>
+                        <SimpleData name="value">54.711647</SimpleData>
+                        <SimpleData name="lon">114.1902466003516</SimpleData>
+                        <SimpleData name="lat">22.295264653082846</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Polygon>
+                    <outerBoundaryIs>
+                        <LinearRing>
+                            <tessellate>1</tessellate>
+                            <coordinates>114.1807312853361,22.286073196614684 114.18036895237788,22.30411969900335 114.19976311912089,22.30445587291604 114.20012296782554,22.286409070004023 114.1807312853361,22.286073196614684</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </Placemark>
+            <Placemark id="product_view.fid-4efbc05e_1549daa21a0_6f9b">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#product_view_1">
+                        <SimpleData name="id">738</SimpleData>
+                        <SimpleData name="project">Test15</SimpleData>
+                        <SimpleData name="model">Emergency</SimpleData>
+                        <SimpleData name="productid">6</SimpleData>
+                        <SimpleData name="description">Inhalation dose, thyroid, for adults (committed), open air[mSv]</SimpleData>
+                        <SimpleData name="sequence">1</SimpleData>
+                        <SimpleData name="time">2016-02-03T06:52:34Z</SimpleData>
+                        <SimpleData name="value">70.60908</SimpleData>
+                        <SimpleData name="lon">114.17084502886189</SimpleData>
+                        <SimpleData name="lat">22.294929575651206</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Polygon>
+                    <outerBoundaryIs>
+                        <LinearRing>
+                            <tessellate>1</tessellate>
+                            <coordinates>114.16133114194125,22.285737113751317 114.16096632377077,22.303783313406537 114.18036011916512,22.304121801960065 114.18072245329539,22.286075299713747 114.16133114194125,22.285737113751317</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </Placemark>
+            <Placemark id="product_view.fid-4efbc05e_1549daa21a0_6f9c">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#product_view_1">
+                        <SimpleData name="id">738</SimpleData>
+                        <SimpleData name="project">Test15</SimpleData>
+                        <SimpleData name="model">Emergency</SimpleData>
+                        <SimpleData name="productid">6</SimpleData>
+                        <SimpleData name="description">Inhalation dose, thyroid, for adults (committed), open air[mSv]</SimpleData>
+                        <SimpleData name="sequence">1</SimpleData>
+                        <SimpleData name="time">2016-02-03T06:52:34Z</SimpleData>
+                        <SimpleData name="value">61.322475</SimpleData>
+                        <SimpleData name="lon">114.15144352674207</SimpleData>
+                        <SimpleData name="lat">22.294592178294803</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Polygon>
+                    <outerBoundaryIs>
+                        <LinearRing>
+                            <tessellate>1</tessellate>
+                            <coordinates>114.14193106910399,22.285398712072833 114.1415637658971,22.30344460692136 114.16095718739086,22.30378540996965 114.16132200677244,22.285739210462452 114.14193106910399,22.285398712072833</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </Placemark>
+            <Placemark id="product_view.fid-4efbc05e_1549daa21a0_6f9d">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#product_view_1">
+                        <SimpleData name="id">738</SimpleData>
+                        <SimpleData name="project">Test15</SimpleData>
+                        <SimpleData name="model">Emergency</SimpleData>
+                        <SimpleData name="productid">6</SimpleData>
+                        <SimpleData name="description">Inhalation dose, thyroid, for adults (committed), open air[mSv]</SimpleData>
+                        <SimpleData name="sequence">1</SimpleData>
+                        <SimpleData name="time">2016-02-03T06:52:34Z</SimpleData>
+                        <SimpleData name="value">67.47586</SimpleData>
+                        <SimpleData name="lon">114.15180970345874</SimpleData>
+                        <SimpleData name="lat">22.276546113362958</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Polygon>
+                    <outerBoundaryIs>
+                        <LinearRing>
+                            <tessellate>1</tessellate>
+                            <coordinates>114.14229829888916,22.26735277672171 114.14193137208447,22.285398717411177 114.16132230975876,22.285739215764693 114.16168675528003,22.267692970492263 114.14229829888916,22.26735277672171</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </Placemark>
+            <Placemark id="product_view.fid-4efbc05e_1549daa21a0_6f9e">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#product_view_1">
+                        <SimpleData name="id">738</SimpleData>
+                        <SimpleData name="project">Test15</SimpleData>
+                        <SimpleData name="model">Emergency</SimpleData>
+                        <SimpleData name="productid">6</SimpleData>
+                        <SimpleData name="description">Inhalation dose, thyroid, for adults (committed), open air[mSv]</SimpleData>
+                        <SimpleData name="sequence">1</SimpleData>
+                        <SimpleData name="time">2016-02-03T06:52:34Z</SimpleData>
+                        <SimpleData name="value">63.29669</SimpleData>
+                        <SimpleData name="lon">114.1324081818187</SimpleData>
+                        <SimpleData name="lat">22.276206656491052</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Polygon>
+                    <outerBoundaryIs>
+                        <LinearRing>
+                            <tessellate>1</tessellate>
+                            <coordinates>114.12289820652877,22.26701231750044 114.12252879707833,22.28505795134544 114.14191935846652,22.285400762285885 114.1422862868496,22.267354821790786 114.12289820652877,22.26701231750044</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </Placemark>
+            <Placemark id="product_view.fid-4efbc05e_1549daa21a0_6f9f">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#product_view_1">
+                        <SimpleData name="id">738</SimpleData>
+                        <SimpleData name="project">Test15</SimpleData>
+                        <SimpleData name="model">Emergency</SimpleData>
+                        <SimpleData name="productid">6</SimpleData>
+                        <SimpleData name="description">Inhalation dose, thyroid, for adults (committed), open air[mSv]</SimpleData>
+                        <SimpleData name="sequence">1</SimpleData>
+                        <SimpleData name="time">2016-02-03T06:52:34Z</SimpleData>
+                        <SimpleData name="value">63.852497</SimpleData>
+                        <SimpleData name="lon">114.13277434451442</SimpleData>
+                        <SimpleData name="lat">22.258160814131834</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Polygon>
+                    <outerBoundaryIs>
+                        <LinearRing>
+                            <tessellate>1</tessellate>
+                            <coordinates>114.12326541990777,22.248966605586084 114.12289638891396,22.267012285282426 114.14228446919938,22.267354789789216 114.14265102166604,22.249308803518655 114.12326541990777,22.248966605586084</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </Placemark>
+            <Placemark id="product_view.fid-4efbc05e_1549daa21a0_6fa0">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#product_view_1">
+                        <SimpleData name="id">738</SimpleData>
+                        <SimpleData name="project">Test15</SimpleData>
+                        <SimpleData name="model">Emergency</SimpleData>
+                        <SimpleData name="productid">6</SimpleData>
+                        <SimpleData name="description">Inhalation dose, thyroid, for adults (committed), open air[mSv]</SimpleData>
+                        <SimpleData name="sequence">1</SimpleData>
+                        <SimpleData name="time">2016-02-03T06:52:34Z</SimpleData>
+                        <SimpleData name="value">64.23521</SimpleData>
+                        <SimpleData name="lon">114.11337280387106</SimpleData>
+                        <SimpleData name="lat">22.257819300797802</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Polygon>
+                    <outerBoundaryIs>
+                        <LinearRing>
+                            <tessellate>1</tessellate>
+                            <coordinates>114.10386530854025,22.24862409187594 114.10349379729165,22.266669462690047 114.12288149890696,22.267014277874924 114.12325053184566,22.248968598419832 114.10386530854025,22.24862409187594</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </Placemark>
+            <Placemark id="product_view.fid-4efbc05e_1549daa21a0_6fa1">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#product_view_1">
+                        <SimpleData name="id">738</SimpleData>
+                        <SimpleData name="project">Test15</SimpleData>
+                        <SimpleData name="model">Emergency</SimpleData>
+                        <SimpleData name="productid">6</SimpleData>
+                        <SimpleData name="description">Inhalation dose, thyroid, for adults (committed), open air[mSv]</SimpleData>
+                        <SimpleData name="sequence">1</SimpleData>
+                        <SimpleData name="time">2016-02-03T06:52:34Z</SimpleData>
+                        <SimpleData name="value">59.92088</SimpleData>
+                        <SimpleData name="lon">114.1137466720325</SimpleData>
+                        <SimpleData name="lat">22.23977381980369</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Polygon>
+                    <outerBoundaryIs>
+                        <LinearRing>
+                            <tessellate>1</tessellate>
+                            <coordinates>114.10424022443232,22.230578742588488 114.10386909467954,22.248624159387592 114.12325431805911,22.248968665480948 114.12362297204041,22.230922940117754 114.10424022443232,22.230578742588488</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </Placemark>
+            <Placemark id="product_view.fid-4efbc05e_1549daa21a0_6fa2">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#product_view_1">
+                        <SimpleData name="id">738</SimpleData>
+                        <SimpleData name="project">Test15</SimpleData>
+                        <SimpleData name="model">Emergency</SimpleData>
+                        <SimpleData name="productid">6</SimpleData>
+                        <SimpleData name="description">Inhalation dose, thyroid, for adults (committed), open air[mSv]</SimpleData>
+                        <SimpleData name="sequence">1</SimpleData>
+                        <SimpleData name="time">2016-02-03T06:52:34Z</SimpleData>
+                        <SimpleData name="value">64.24513</SimpleData>
+                        <SimpleData name="lon">114.09434511275028</SimpleData>
+                        <SimpleData name="lat">22.23943025398299</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Polygon>
+                    <outerBoundaryIs>
+                        <LinearRing>
+                            <tessellate>1</tessellate>
+                            <coordinates>114.08484009442068,22.23023417836501 114.08446648680433,22.248279284244916 114.1038513291324,22.24862609910649 114.10422246119569,22.230580682596127 114.08484009442068,22.23023417836501</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </Placemark>
+            <Placemark id="product_view.fid-4efbc05e_1549daa21a0_6fa3">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#product_view_1">
+                        <SimpleData name="id">738</SimpleData>
+                        <SimpleData name="project">Test15</SimpleData>
+                        <SimpleData name="model">Emergency</SimpleData>
+                        <SimpleData name="productid">6</SimpleData>
+                        <SimpleData name="description">Inhalation dose, thyroid, for adults (committed), open air[mSv]</SimpleData>
+                        <SimpleData name="sequence">1</SimpleData>
+                        <SimpleData name="time">2016-02-03T06:52:34Z</SimpleData>
+                        <SimpleData name="value">55.829536</SimpleData>
+                        <SimpleData name="lon">114.09471895712876</SimpleData>
+                        <SimpleData name="lat">22.221384999414255</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Polygon>
+                    <outerBoundaryIs>
+                        <LinearRing>
+                            <tessellate>1</tessellate>
+                            <coordinates>114.08521498414794,22.212189056365812 114.08484176007636,22.23023420824173 114.10422412688423,22.230580712274808 114.10459487793946,22.21253524984555 114.08521498414794,22.212189056365812</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </Placemark>
+            <Placemark id="product_view.fid-4efbc05e_1549daa21a0_6fa4">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#product_view_1">
+                        <SimpleData name="id">738</SimpleData>
+                        <SimpleData name="project">Test15</SimpleData>
+                        <SimpleData name="model">Emergency</SimpleData>
+                        <SimpleData name="productid">6</SimpleData>
+                        <SimpleData name="description">Inhalation dose, thyroid, for adults (committed), open air[mSv]</SimpleData>
+                        <SimpleData name="sequence">1</SimpleData>
+                        <SimpleData name="time">2016-02-03T06:52:34Z</SimpleData>
+                        <SimpleData name="value">63.45117</SimpleData>
+                        <SimpleData name="lon">114.07532495032551</SimpleData>
+                        <SimpleData name="lat">22.221039520356932</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Polygon>
+                    <outerBoundaryIs>
+                        <LinearRing>
+                            <tessellate>1</tessellate>
+                            <coordinates>114.06582240605111,22.211842581268147 114.0654467074734,22.22988742031043 114.08482869100011,22.230236230300743 114.08520191678103,22.212191078639933 114.06582240605111,22.211842581268147</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </Placemark>
+            <Placemark id="product_view.fid-4efbc05e_1549daa21a0_6fa5">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#product_view_1">
+                        <SimpleData name="id">738</SimpleData>
+                        <SimpleData name="project">Test15</SimpleData>
+                        <SimpleData name="model">Emergency</SimpleData>
+                        <SimpleData name="productid">6</SimpleData>
+                        <SimpleData name="description">Inhalation dose, thyroid, for adults (committed), open air[mSv]</SimpleData>
+                        <SimpleData name="sequence">1</SimpleData>
+                        <SimpleData name="time">2016-02-03T06:52:34Z</SimpleData>
+                        <SimpleData name="value">52.755085</SimpleData>
+                        <SimpleData name="lon">114.05593117650314</SimpleData>
+                        <SimpleData name="lat">22.22069173213922</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Polygon>
+                    <outerBoundaryIs>
+                        <LinearRing>
+                            <tessellate>1</tessellate>
+                            <coordinates>114.04643006210554,22.211493798129354 114.04605188922314,22.229538322269182 114.06543348692577,22.229889438047003 114.06580918723235,22.211844599223646 114.04643006210554,22.211493798129354</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </Placemark>
+            <Placemark id="product_view.fid-4efbc05e_1549daa21a0_6fa6">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#product_view_1">
+                        <SimpleData name="id">738</SimpleData>
+                        <SimpleData name="project">Test15</SimpleData>
+                        <SimpleData name="model">Emergency</SimpleData>
+                        <SimpleData name="productid">6</SimpleData>
+                        <SimpleData name="description">Inhalation dose, thyroid, for adults (committed), open air[mSv]</SimpleData>
+                        <SimpleData name="sequence">1</SimpleData>
+                        <SimpleData name="time">2016-02-03T06:52:34Z</SimpleData>
+                        <SimpleData name="value">51.6965</SimpleData>
+                        <SimpleData name="lon">114.07569891753326</SimpleData>
+                        <SimpleData name="lat">22.202994496402265</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Polygon>
+                    <outerBoundaryIs>
+                        <LinearRing>
+                            <tessellate>1</tessellate>
+                            <coordinates>114.0661974162165,22.193797690753318 114.0658221032493,22.211842575804894 114.0852016139732,22.21219107321266 114.08557445667861,22.19414587561987 114.0661974162165,22.193797690753318</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </Placemark>
+            <Placemark id="product_view.fid-4efbc05e_1549daa21a0_6fa7">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#product_view_1">
+                        <SimpleData name="id">738</SimpleData>
+                        <SimpleData name="project">Test15</SimpleData>
+                        <SimpleData name="model">Emergency</SimpleData>
+                        <SimpleData name="productid">6</SimpleData>
+                        <SimpleData name="description">Inhalation dose, thyroid, for adults (committed), open air[mSv]</SimpleData>
+                        <SimpleData name="sequence">1</SimpleData>
+                        <SimpleData name="time">2016-02-03T06:52:34Z</SimpleData>
+                        <SimpleData name="value">61.984665</SimpleData>
+                        <SimpleData name="lon">114.05630489184807</SimpleData>
+                        <SimpleData name="lat">22.2026469726704</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Polygon>
+                    <outerBoundaryIs>
+                        <LinearRing>
+                            <tessellate>1</tessellate>
+                            <coordinates>114.04680481923029,22.193449172954203 114.04642703414753,22.21149374313682 114.06580615921389,22.21184454459081 114.06618147425556,22.193799659802206 114.04680481923029,22.193449172954203</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </Placemark>
+            <Placemark id="product_view.fid-4efbc05e_1549daa21a0_6fa8">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#product_view_1">
+                        <SimpleData name="id">738</SimpleData>
+                        <SimpleData name="project">Test15</SimpleData>
+                        <SimpleData name="model">Emergency</SimpleData>
+                        <SimpleData name="productid">6</SimpleData>
+                        <SimpleData name="description">Inhalation dose, thyroid, for adults (committed), open air[mSv]</SimpleData>
+                        <SimpleData name="sequence">1</SimpleData>
+                        <SimpleData name="time">2016-02-03T06:52:34Z</SimpleData>
+                        <SimpleData name="value">52.405552</SimpleData>
+                        <SimpleData name="lon">114.44298558464834</SimpleData>
+                        <SimpleData name="lat">22.53865350618715</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Polygon>
+                    <outerBoundaryIs>
+                        <LinearRing>
+                            <tessellate>1</tessellate>
+                            <coordinates>114.43821119629018,22.53406376561347 114.43804457446045,22.54308866132604 114.44776027942004,22.543243183109556 114.44792627104538,22.534218218893454 114.43821119629018,22.53406376561347</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </Placemark>
+            <Placemark id="product_view.fid-4efbc05e_1549daa21a0_6fa9">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#product_view_1">
+                        <SimpleData name="id">738</SimpleData>
+                        <SimpleData name="project">Test15</SimpleData>
+                        <SimpleData name="model">Emergency</SimpleData>
+                        <SimpleData name="productid">6</SimpleData>
+                        <SimpleData name="description">Inhalation dose, thyroid, for adults (committed), open air[mSv]</SimpleData>
+                        <SimpleData name="sequence">1</SimpleData>
+                        <SimpleData name="time">2016-02-03T06:52:34Z</SimpleData>
+                        <SimpleData name="value">50.781315</SimpleData>
+                        <SimpleData name="lon">113.875084023919</SimpleData>
+                        <SimpleData name="lat">22.06391577182833</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Polygon>
+                    <outerBoundaryIs>
+                        <LinearRing>
+                            <tessellate>1</tessellate>
+                            <coordinates>113.85612767156276,22.045503340801556 113.85532887759382,22.081586658676258 113.89404510268173,22.082327340388805 113.89483410093396,22.046242688143046 113.85612767156276,22.045503340801556</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </Placemark>
+            <Placemark id="product_view.fid-4efbc05e_1549daa21a0_6faa">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#product_view_1">
+                        <SimpleData name="id">738</SimpleData>
+                        <SimpleData name="project">Test15</SimpleData>
+                        <SimpleData name="model">Emergency</SimpleData>
+                        <SimpleData name="productid">6</SimpleData>
+                        <SimpleData name="description">Inhalation dose, thyroid, for adults (committed), open air[mSv]</SimpleData>
+                        <SimpleData name="sequence">1</SimpleData>
+                        <SimpleData name="time">2016-02-03T06:52:34Z</SimpleData>
+                        <SimpleData name="value">50.993847</SimpleData>
+                        <SimpleData name="lon">113.83714297600683</SimpleData>
+                        <SimpleData name="lat">22.027094575948563</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Polygon>
+                    <outerBoundaryIs>
+                        <LinearRing>
+                            <tessellate>1</tessellate>
+                            <coordinates>113.81819640589966,22.008678833035724 113.8173894751866,22.04476098593047 113.85609425930873,22.04550946713947 113.8568914163246,22.00942596406553 113.81819640589966,22.008678833035724</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </Placemark>
+            <Placemark id="product_view.fid-4efbc05e_1549daa21a0_6fab">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#product_view_1">
+                        <SimpleData name="id">738</SimpleData>
+                        <SimpleData name="project">Test15</SimpleData>
+                        <SimpleData name="model">Emergency</SimpleData>
+                        <SimpleData name="productid">6</SimpleData>
+                        <SimpleData name="description">Inhalation dose, thyroid, for adults (committed), open air[mSv]</SimpleData>
+                        <SimpleData name="sequence">1</SimpleData>
+                        <SimpleData name="time">2016-02-03T06:52:34Z</SimpleData>
+                        <SimpleData name="value">78.32975</SimpleData>
+                        <SimpleData name="lon">114.53337860197794</SimpleData>
+                        <SimpleData name="lat">22.58181095720749</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Polygon>
+                    <outerBoundaryIs>
+                        <LinearRing>
+                            <tessellate>1</tessellate>
+                            <coordinates>114.53218382199972,22.58066410410097 114.5321436091478,22.582920479363167 114.53457340118014,22.582957806247705 114.53461357453727,22.5807014268538 114.53218382199972,22.58066410410097</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </Placemark>
+            <Placemark id="product_view.fid-4efbc05e_1549daa21a0_6fac">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#product_view_1">
+                        <SimpleData name="id">738</SimpleData>
+                        <SimpleData name="project">Test15</SimpleData>
+                        <SimpleData name="model">Emergency</SimpleData>
+                        <SimpleData name="productid">6</SimpleData>
+                        <SimpleData name="description">Inhalation dose, thyroid, for adults (committed), open air[mSv]</SimpleData>
+                        <SimpleData name="sequence">1</SimpleData>
+                        <SimpleData name="time">2016-02-03T06:52:34Z</SimpleData>
+                        <SimpleData name="value">55.686222</SimpleData>
+                        <SimpleData name="lon">114.53795616972569</SimpleData>
+                        <SimpleData name="lat">22.597680199070226</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Polygon>
+                    <outerBoundaryIs>
+                        <LinearRing>
+                            <tessellate>1</tessellate>
+                            <coordinates>114.5367612247378,22.596533366531485 114.53672105509693,22.598789745142682 114.53915113395664,22.598827027534238 114.53919126406683,22.596570644798554 114.5367612247378,22.596533366531485</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </Placemark>
+            <Placemark id="product_view.fid-4efbc05e_1549daa21a0_6fad">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#product_view_1">
+                        <SimpleData name="id">738</SimpleData>
+                        <SimpleData name="project">Test15</SimpleData>
+                        <SimpleData name="model">Emergency</SimpleData>
+                        <SimpleData name="productid">6</SimpleData>
+                        <SimpleData name="description">Inhalation dose, thyroid, for adults (committed), open air[mSv]</SimpleData>
+                        <SimpleData name="sequence">1</SimpleData>
+                        <SimpleData name="time">2016-02-03T06:52:34Z</SimpleData>
+                        <SimpleData name="value">82.4753</SimpleData>
+                        <SimpleData name="lon">114.45565796619628</SimpleData>
+                        <SimpleData name="lat">22.50951466898953</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Polygon>
+                    <outerBoundaryIs>
+                        <LinearRing>
+                            <tessellate>1</tessellate>
+                            <coordinates>114.45327095362232,22.507220014399984 114.45318825217765,22.51173253186037 114.45804505525663,22.511809307657106 114.45812759940308,22.50729677315883 114.45327095362232,22.507220014399984</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </Placemark>
+            <Placemark id="product_view.fid-4efbc05e_1549daa21a0_6fae">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#product_view_1">
+                        <SimpleData name="id">738</SimpleData>
+                        <SimpleData name="project">Test15</SimpleData>
+                        <SimpleData name="model">Emergency</SimpleData>
+                        <SimpleData name="productid">6</SimpleData>
+                        <SimpleData name="description">Inhalation dose, thyroid, for adults (committed), open air[mSv]</SimpleData>
+                        <SimpleData name="sequence">1</SimpleData>
+                        <SimpleData name="time">2016-02-03T06:52:34Z</SimpleData>
+                        <SimpleData name="value">86.96282</SimpleData>
+                        <SimpleData name="lon">114.46047218405066</SimpleData>
+                        <SimpleData name="lat">22.514102278360998</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Polygon>
+                    <outerBoundaryIs>
+                        <LinearRing>
+                            <tessellate>1</tessellate>
+                            <coordinates>114.45808501347089,22.511807681785783 114.45800244958167,22.51632021361113 114.46285943114262,22.516396858992845 114.46294183769047,22.511884310161275 114.45808501347089,22.511807681785783</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </Placemark>
+            <Placemark id="product_view.fid-4efbc05e_1549daa21a0_6faf">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#product_view_1">
+                        <SimpleData name="id">738</SimpleData>
+                        <SimpleData name="project">Test15</SimpleData>
+                        <SimpleData name="model">Emergency</SimpleData>
+                        <SimpleData name="productid">6</SimpleData>
+                        <SimpleData name="description">Inhalation dose, thyroid, for adults (committed), open air[mSv]</SimpleData>
+                        <SimpleData name="sequence">1</SimpleData>
+                        <SimpleData name="time">2016-02-03T06:52:34Z</SimpleData>
+                        <SimpleData name="value">51.29299</SimpleData>
+                        <SimpleData name="lon">114.46529388474498</SimpleData>
+                        <SimpleData name="lat">22.514178287563684</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Polygon>
+                    <outerBoundaryIs>
+                        <LinearRing>
+                            <tessellate>1</tessellate>
+                            <coordinates>114.46290662563925,22.51188375513172 114.46282421795065,22.516396303840118 114.46768122036856,22.51647280403605 114.46776347071274,22.511960238353605 114.46290662563925,22.51188375513172</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </Placemark>
+            <Placemark id="product_view.fid-4efbc05e_1549daa21a0_6fb0">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#product_view_1">
+                        <SimpleData name="id">738</SimpleData>
+                        <SimpleData name="project">Test15</SimpleData>
+                        <SimpleData name="model">Emergency</SimpleData>
+                        <SimpleData name="productid">6</SimpleData>
+                        <SimpleData name="description">Inhalation dose, thyroid, for adults (committed), open air[mSv]</SimpleData>
+                        <SimpleData name="sequence">1</SimpleData>
+                        <SimpleData name="time">2016-02-03T06:52:34Z</SimpleData>
+                        <SimpleData name="value">92.49035</SimpleData>
+                        <SimpleData name="lon">114.46520998622097</SimpleData>
+                        <SimpleData name="lat">22.518693075723483</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Polygon>
+                    <outerBoundaryIs>
+                        <LinearRing>
+                            <tessellate>1</tessellate>
+                            <coordinates>114.46282265893157,22.516398536184607 114.46274023017386,22.520911082072637 114.46759739004841,22.52098759929788 114.46767966142157,22.51647503643472 114.46282265893157,22.516398536184607</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </Placemark>
+            <Placemark id="product_view.fid-4efbc05e_1549daa21a0_6fb1">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#product_view_1">
+                        <SimpleData name="id">738</SimpleData>
+                        <SimpleData name="project">Test15</SimpleData>
+                        <SimpleData name="model">Emergency</SimpleData>
+                        <SimpleData name="productid">6</SimpleData>
+                        <SimpleData name="description">Inhalation dose, thyroid, for adults (committed), open air[mSv]</SimpleData>
+                        <SimpleData name="sequence">1</SimpleData>
+                        <SimpleData name="time">2016-02-03T06:52:34Z</SimpleData>
+                        <SimpleData name="value">53.51143</SimpleData>
+                        <SimpleData name="lon">114.4701081007824</SimpleData>
+                        <SimpleData name="lat">22.51876789934621</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Polygon>
+                    <outerBoundaryIs>
+                        <LinearRing>
+                            <tessellate>1</tessellate>
+                            <coordinates>114.46772068359914,22.516473425001198 114.46763841356437,22.520985988008842 114.47249559450935,22.521062357710267 114.47257770715659,22.516549777760186 114.46772068359914,22.516473425001198</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </Placemark>
+            <Placemark id="product_view.fid-4efbc05e_1549daa21a0_6fb2">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#product_view_1">
+                        <SimpleData name="id">738</SimpleData>
+                        <SimpleData name="project">Test15</SimpleData>
+                        <SimpleData name="model">Emergency</SimpleData>
+                        <SimpleData name="productid">6</SimpleData>
+                        <SimpleData name="description">Inhalation dose, thyroid, for adults (committed), open air[mSv]</SimpleData>
+                        <SimpleData name="sequence">1</SimpleData>
+                        <SimpleData name="time">2016-02-03T06:52:34Z</SimpleData>
+                        <SimpleData name="value">97.75436</SimpleData>
+                        <SimpleData name="lon">114.470024077493</SimpleData>
+                        <SimpleData name="lat">22.5232804407797</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Polygon>
+                    <outerBoundaryIs>
+                        <LinearRing>
+                            <tessellate>1</tessellate>
+                            <coordinates>114.46763659212547,22.52098595934277 114.46755430105965,22.52549851953102 114.47241163942437,22.525574906230794 114.47249377306258,22.521062329099042 114.46763659212547,22.52098595934277</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </Placemark>
+            <Placemark id="product_view.fid-4efbc05e_1549daa21a0_6fb3">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#product_view_1">
+                        <SimpleData name="id">738</SimpleData>
+                        <SimpleData name="project">Test15</SimpleData>
+                        <SimpleData name="model">Emergency</SimpleData>
+                        <SimpleData name="productid">6</SimpleData>
+                        <SimpleData name="description">Inhalation dose, thyroid, for adults (committed), open air[mSv]</SimpleData>
+                        <SimpleData name="sequence">1</SimpleData>
+                        <SimpleData name="time">2016-02-03T06:52:34Z</SimpleData>
+                        <SimpleData name="value">56.372513</SimpleData>
+                        <SimpleData name="lon">114.47484582874492</SimpleData>
+                        <SimpleData name="lat">22.523356188407956</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Polygon>
+                    <outerBoundaryIs>
+                        <LinearRing>
+                            <tessellate>1</tessellate>
+                            <coordinates>114.47245825485095,22.521061771176125 114.47237612006154,22.5255743481841 114.47723347920835,22.525650589637685 114.47731545656714,22.52113799571841 114.47245825485095,22.521061771176125</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </Placemark>
+            <Placemark id="product_view.fid-4efbc05e_1549daa21a0_6fb4">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#product_view_1">
+                        <SimpleData name="id">738</SimpleData>
+                        <SimpleData name="project">Test15</SimpleData>
+                        <SimpleData name="model">Emergency</SimpleData>
+                        <SimpleData name="productid">6</SimpleData>
+                        <SimpleData name="description">Inhalation dose, thyroid, for adults (committed), open air[mSv]</SimpleData>
+                        <SimpleData name="sequence">1</SimpleData>
+                        <SimpleData name="time">2016-02-03T06:52:34Z</SimpleData>
+                        <SimpleData name="value">58.77242</SimpleData>
+                        <SimpleData name="lon">114.47966007021245</SimpleData>
+                        <SimpleData name="lat">22.527945558034624</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Polygon>
+                    <outerBoundaryIs>
+                        <LinearRing>
+                            <tessellate>1</tessellate>
+                            <coordinates>114.47727233816585,22.525651198979368 114.47719034117164,22.530163790222392 114.48204787885443,22.5302399010664 114.48212971837485,22.525727292943703 114.47727233816585,22.525651198979368</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </Placemark>
+            <Placemark id="product_view.fid-4efbc05e_1549daa21a0_6fb5">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#product_view_1">
+                        <SimpleData name="id">738</SimpleData>
+                        <SimpleData name="project">Test15</SimpleData>
+                        <SimpleData name="model">Emergency</SimpleData>
+                        <SimpleData name="productid">6</SimpleData>
+                        <SimpleData name="description">Inhalation dose, thyroid, for adults (committed), open air[mSv]</SimpleData>
+                        <SimpleData name="sequence">1</SimpleData>
+                        <SimpleData name="time">2016-02-03T06:52:34Z</SimpleData>
+                        <SimpleData name="value">66.76721</SimpleData>
+                        <SimpleData name="lon">114.48439785898421</SimpleData>
+                        <SimpleData name="lat">22.532531352564348</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Polygon>
+                    <outerBoundaryIs>
+                        <LinearRing>
+                            <tessellate>1</tessellate>
+                            <coordinates>114.482009970186,22.530237050714373 114.48192810858754,22.53474965589589 114.48678582440355,22.53482563836972 114.4868675284851,22.530313016339633 114.482009970186,22.530237050714373</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </Placemark>
+            <Placemark id="product_view.fid-4efbc05e_1549daa21a0_6fb6">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#product_view_1">
+                        <SimpleData name="id">738</SimpleData>
+                        <SimpleData name="project">Test15</SimpleData>
+                        <SimpleData name="model">Emergency</SimpleData>
+                        <SimpleData name="productid">6</SimpleData>
+                        <SimpleData name="description">Inhalation dose, thyroid, for adults (committed), open air[mSv]</SimpleData>
+                        <SimpleData name="sequence">1</SimpleData>
+                        <SimpleData name="time">2016-02-03T06:52:34Z</SimpleData>
+                        <SimpleData name="value">69.56062</SimpleData>
+                        <SimpleData name="lon">114.48921971636116</SimpleData>
+                        <SimpleData name="lat">22.537120598239582</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Polygon>
+                    <outerBoundaryIs>
+                        <LinearRing>
+                            <tessellate>1</tessellate>
+                            <coordinates>114.48683166919581,22.534826354757016 114.48674994578012,22.53933897413572 114.49160784017351,22.539414825656138 114.49168940602915,22.534902189460595 114.48683166919581,22.534826354757016</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </Placemark>
+            <Placemark id="product_view.fid-4efbc05e_1549daa21a0_6fb7">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#product_view_1">
+                        <SimpleData name="id">738</SimpleData>
+                        <SimpleData name="project">Test15</SimpleData>
+                        <SimpleData name="model">Emergency</SimpleData>
+                        <SimpleData name="productid">6</SimpleData>
+                        <SimpleData name="description">Inhalation dose, thyroid, for adults (committed), open air[mSv]</SimpleData>
+                        <SimpleData name="sequence">1</SimpleData>
+                        <SimpleData name="time">2016-02-03T06:52:34Z</SimpleData>
+                        <SimpleData name="value">80.66215</SimpleData>
+                        <SimpleData name="lon">114.45025634169778</SimpleData>
+                        <SimpleData name="lat">22.54102587817902</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Polygon>
+                    <outerBoundaryIs>
+                        <LinearRing>
+                            <tessellate>1</tessellate>
+                            <coordinates>114.44786894061852,22.53873110957957 114.4477859350656,22.543243590368274 114.45264381939903,22.543320630838576 114.45272666737618,22.538808132972303 114.44786894061852,22.53873110957957</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </Placemark>
+            <Placemark id="product_view.fid-4efbc05e_1549daa21a0_6fb8">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#product_view_1">
+                        <SimpleData name="id">738</SimpleData>
+                        <SimpleData name="project">Test15</SimpleData>
+                        <SimpleData name="model">Emergency</SimpleData>
+                        <SimpleData name="productid">6</SimpleData>
+                        <SimpleData name="description">Inhalation dose, thyroid, for adults (committed), open air[mSv]</SimpleData>
+                        <SimpleData name="sequence">1</SimpleData>
+                        <SimpleData name="time">2016-02-03T06:52:34Z</SimpleData>
+                        <SimpleData name="value">73.32657</SimpleData>
+                        <SimpleData name="lon">114.49395748458105</SimpleData>
+                        <SimpleData name="lat">22.541708410353365</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Polygon>
+                    <outerBoundaryIs>
+                        <LinearRing>
+                            <tessellate>1</tessellate>
+                            <coordinates>114.49156928055487,22.53941422416119 114.49148769266462,22.54392685741374 114.49634576527995,22.5440025804584 114.49642719556707,22.539489930420142 114.49156928055487,22.53941422416119</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </Placemark>
+            <Placemark id="product_view.fid-4efbc05e_1549daa21a0_6fb9">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#product_view_1">
+                        <SimpleData name="id">738</SimpleData>
+                        <SimpleData name="project">Test15</SimpleData>
+                        <SimpleData name="model">Emergency</SimpleData>
+                        <SimpleData name="productid">6</SimpleData>
+                        <SimpleData name="description">Inhalation dose, thyroid, for adults (committed), open air[mSv]</SimpleData>
+                        <SimpleData name="sequence">1</SimpleData>
+                        <SimpleData name="time">2016-02-03T06:52:34Z</SimpleData>
+                        <SimpleData name="value">69.266525</SimpleData>
+                        <SimpleData name="lon">114.4549941841215</SimpleData>
+                        <SimpleData name="lat">22.545614753093982</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Polygon>
+                    <outerBoundaryIs>
+                        <LinearRing>
+                            <tessellate>1</tessellate>
+                            <coordinates>114.45260662614187,22.543320041553763 114.45252375585032,22.547832536470775 114.4573818187489,22.547909448673188 114.45746453142154,22.54339693670969 114.45260662614187,22.543320041553763</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </Placemark>
+            <Placemark id="product_view.fid-4efbc05e_1549daa21a0_6fba">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#product_view_1">
+                        <SimpleData name="id">738</SimpleData>
+                        <SimpleData name="project">Test15</SimpleData>
+                        <SimpleData name="model">Emergency</SimpleData>
+                        <SimpleData name="productid">6</SimpleData>
+                        <SimpleData name="description">Inhalation dose, thyroid, for adults (committed), open air[mSv]</SimpleData>
+                        <SimpleData name="sequence">1</SimpleData>
+                        <SimpleData name="time">2016-02-03T06:52:34Z</SimpleData>
+                        <SimpleData name="value">76.01545</SimpleData>
+                        <SimpleData name="lon">114.49877162593505</SimpleData>
+                        <SimpleData name="lat">22.54629729221438</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Polygon>
+                    <outerBoundaryIs>
+                        <LinearRing>
+                            <tessellate>1</tessellate>
+                            <coordinates>114.49638326360869,22.54400316437604 114.49630181379156,22.548515811734667 114.50116006495999,22.548591403944194 114.50124135713084,22.544078739831484 114.49638326360869,22.54400316437604</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </Placemark>
+            <Placemark id="product_view.fid-4efbc05e_1549daa21a0_6fbb">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#product_view_1">
+                        <SimpleData name="id">738</SimpleData>
+                        <SimpleData name="project">Test15</SimpleData>
+                        <SimpleData name="model">Emergency</SimpleData>
+                        <SimpleData name="productid">6</SimpleData>
+                        <SimpleData name="description">Inhalation dose, thyroid, for adults (committed), open air[mSv]</SimpleData>
+                        <SimpleData name="sequence">1</SimpleData>
+                        <SimpleData name="time">2016-02-03T06:52:34Z</SimpleData>
+                        <SimpleData name="value">58.353615</SimpleData>
+                        <SimpleData name="lon">114.45980844098598</SimpleData>
+                        <SimpleData name="lat">22.55020246054081</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Polygon>
+                    <outerBoundaryIs>
+                        <LinearRing>
+                            <tessellate>1</tessellate>
+                            <coordinates>114.45742072469807,22.547907807124886 114.45733799222634,22.55242031640793 114.46219623394755,22.552497097974328 114.46227880875722,22.547984571676437 114.45742072469807,22.547907807124886</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </Placemark>
+            <Placemark id="product_view.fid-4efbc05e_1549daa21a0_6fbc">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#product_view_1">
+                        <SimpleData name="id">738</SimpleData>
+                        <SimpleData name="project">Test15</SimpleData>
+                        <SimpleData name="model">Emergency</SimpleData>
+                        <SimpleData name="productid">6</SimpleData>
+                        <SimpleData name="description">Inhalation dose, thyroid, for adults (committed), open air[mSv]</SimpleData>
+                        <SimpleData name="sequence">1</SimpleData>
+                        <SimpleData name="time">2016-02-03T06:52:34Z</SimpleData>
+                        <SimpleData name="value">79.34333</SimpleData>
+                        <SimpleData name="lon">114.50350956631274</SimpleData>
+                        <SimpleData name="lat">22.550884867885163</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Polygon>
+                    <outerBoundaryIs>
+                        <LinearRing>
+                            <tessellate>1</tessellate>
+                            <coordinates>114.50112104704773,22.5485907974278 114.501039732901,22.553103458597594 114.50589816230209,22.55317892221285 114.50597931875943,22.54866624432015 114.50112104704773,22.5485907974278</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </Placemark>
+            <Placemark id="product_view.fid-4efbc05e_1549daa21a0_6fbd">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#product_view_1">
+                        <SimpleData name="id">738</SimpleData>
+                        <SimpleData name="project">Test15</SimpleData>
+                        <SimpleData name="model">Emergency</SimpleData>
+                        <SimpleData name="productid">6</SimpleData>
+                        <SimpleData name="description">Inhalation dose, thyroid, for adults (committed), open air[mSv]</SimpleData>
+                        <SimpleData name="sequence">1</SimpleData>
+                        <SimpleData name="time">2016-02-03T06:52:34Z</SimpleData>
+                        <SimpleData name="value">50.2445</SimpleData>
+                        <SimpleData name="lon">114.46454615211312</SimpleData>
+                        <SimpleData name="lat">22.554791094956283</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Polygon>
+                    <outerBoundaryIs>
+                        <LinearRing>
+                            <tessellate>1</tessellate>
+                            <coordinates>114.46215827885256,22.55249649868616 114.46207568177726,22.557009022033778 114.46693410207317,22.557085675222847 114.4670165414432,22.552573134891528 114.46215827885256,22.55249649868616</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </Placemark>
+            <Placemark id="product_view.fid-4efbc05e_1549daa21a0_6fbe">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#product_view_1">
+                        <SimpleData name="id">738</SimpleData>
+                        <SimpleData name="project">Test15</SimpleData>
+                        <SimpleData name="model">Emergency</SimpleData>
+                        <SimpleData name="productid">6</SimpleData>
+                        <SimpleData name="description">Inhalation dose, thyroid, for adults (committed), open air[mSv]</SimpleData>
+                        <SimpleData name="sequence">1</SimpleData>
+                        <SimpleData name="time">2016-02-03T06:52:34Z</SimpleData>
+                        <SimpleData name="value">94.461754</SimpleData>
+                        <SimpleData name="lon">114.46945187308671</SimpleData>
+                        <SimpleData name="lat">22.5548684122416</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Polygon>
+                    <outerBoundaryIs>
+                        <LinearRing>
+                            <tessellate>1</tessellate>
+                            <coordinates>114.46706390960684,22.552573881373338 114.4669814717745,22.55708642187011 114.47183991327172,22.557162927089767 114.47192219339573,22.552650369642073 114.46706390960684,22.552573881373338</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </Placemark>
+            <Placemark id="product_view.fid-4efbc05e_1549daa21a0_6fbf">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#product_view_1">
+                        <SimpleData name="id">738</SimpleData>
+                        <SimpleData name="project">Test15</SimpleData>
+                        <SimpleData name="model">Emergency</SimpleData>
+                        <SimpleData name="productid">6</SimpleData>
+                        <SimpleData name="description">Inhalation dose, thyroid, for adults (committed), open air[mSv]</SimpleData>
+                        <SimpleData name="sequence">1</SimpleData>
+                        <SimpleData name="time">2016-02-03T06:52:34Z</SimpleData>
+                        <SimpleData name="value">80.08877</SimpleData>
+                        <SimpleData name="lon">114.50833136571998</SimpleData>
+                        <SimpleData name="lat">22.555471368070307</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Polygon>
+                    <outerBoundaryIs>
+                        <LinearRing>
+                            <tessellate>1</tessellate>
+                            <coordinates>114.50594268797455,22.553177356161303 114.50586151229915,22.557690031400497 114.51072012021561,22.557765363828256 114.5108011381585,22.553252671897834 114.50594268797455,22.553177356161303</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </Placemark>
+            <Placemark id="product_view.fid-4efbc05e_1549daa21a0_6fc0">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#product_view_1">
+                        <SimpleData name="id">738</SimpleData>
+                        <SimpleData name="project">Test15</SimpleData>
+                        <SimpleData name="model">Emergency</SimpleData>
+                        <SimpleData name="productid">6</SimpleData>
+                        <SimpleData name="description">Inhalation dose, thyroid, for adults (committed), open air[mSv]</SimpleData>
+                        <SimpleData name="sequence">1</SimpleData>
+                        <SimpleData name="time">2016-02-03T06:52:34Z</SimpleData>
+                        <SimpleData name="value">77.2701</SimpleData>
+                        <SimpleData name="lon">114.47418977345632</SimpleData>
+                        <SimpleData name="lat">22.559456798828634</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Polygon>
+                    <outerBoundaryIs>
+                        <LinearRing>
+                            <tessellate>1</tessellate>
+                            <coordinates>114.47180165296301,22.557162325183622 114.47171935064043,22.561674879682155 114.47657797068061,22.56175125643245 114.47666011525166,22.557238685014102 114.47180165296301,22.557162325183622</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </Placemark>
+            <Placemark id="product_view.fid-4efbc05e_1549daa21a0_6fc1">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#product_view_1">
+                        <SimpleData name="id">738</SimpleData>
+                        <SimpleData name="project">Test15</SimpleData>
+                        <SimpleData name="model">Emergency</SimpleData>
+                        <SimpleData name="productid">6</SimpleData>
+                        <SimpleData name="description">Inhalation dose, thyroid, for adults (committed), open air[mSv]</SimpleData>
+                        <SimpleData name="sequence">1</SimpleData>
+                        <SimpleData name="time">2016-02-03T06:52:34Z</SimpleData>
+                        <SimpleData name="value">79.97839</SimpleData>
+                        <SimpleData name="lon">114.51306917503582</SimpleData>
+                        <SimpleData name="lat">22.560058702080543</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Polygon>
+                    <outerBoundaryIs>
+                        <LinearRing>
+                            <tessellate>1</tessellate>
+                            <coordinates>114.51068034027946,22.557764747639094 114.51059930040967,22.56227743662564 114.51545808656816,22.56235264034981 114.5155389686623,22.557839934703125 114.51068034027946,22.557764747639094</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </Placemark>
+            <Placemark id="product_view.fid-4efbc05e_1549daa21a0_6fc2">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#product_view_1">
+                        <SimpleData name="id">738</SimpleData>
+                        <SimpleData name="project">Test15</SimpleData>
+                        <SimpleData name="model">Emergency</SimpleData>
+                        <SimpleData name="productid">6</SimpleData>
+                        <SimpleData name="description">Inhalation dose, thyroid, for adults (committed), open air[mSv]</SimpleData>
+                        <SimpleData name="sequence">1</SimpleData>
+                        <SimpleData name="time">2016-02-03T06:52:34Z</SimpleData>
+                        <SimpleData name="value">59.09552</SimpleData>
+                        <SimpleData name="lon">114.47900394505625</SimpleData>
+                        <SimpleData name="lat">22.564044006851738</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Polygon>
+                    <outerBoundaryIs>
+                        <LinearRing>
+                            <tessellate>1</tessellate>
+                            <coordinates>114.47661566614454,22.561749591494795 114.47653350188733,22.566262160230337 114.48139230072478,22.56633840614609 114.48147430718728,22.561825820522383 114.47661566614454,22.561749591494795</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </Placemark>
+            <Placemark id="product_view.fid-4efbc05e_1549daa21a0_6fc3">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#product_view_1">
+                        <SimpleData name="id">738</SimpleData>
+                        <SimpleData name="project">Test15</SimpleData>
+                        <SimpleData name="model">Emergency</SimpleData>
+                        <SimpleData name="productid">6</SimpleData>
+                        <SimpleData name="description">Inhalation dose, thyroid, for adults (committed), open air[mSv]</SimpleData>
+                        <SimpleData name="sequence">1</SimpleData>
+                        <SimpleData name="time">2016-02-03T06:52:34Z</SimpleData>
+                        <SimpleData name="value">73.88327</SimpleData>
+                        <SimpleData name="lon">114.51789096092078</SimpleData>
+                        <SimpleData name="lat">22.56464721467232</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Polygon>
+                    <outerBoundaryIs>
+                        <LinearRing>
+                            <tessellate>1</tessellate>
+                            <coordinates>114.51550196757458,22.562353318865465 114.51542106630738,22.566866021855688 114.52028003106884,22.566941094285546 114.52036077451723,22.562428374666915 114.51550196757458,22.562353318865465</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </Placemark>
+            <Placemark id="product_view.fid-4efbc05e_1549daa21a0_6fc4">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#product_view_1">
+                        <SimpleData name="id">738</SimpleData>
+                        <SimpleData name="project">Test15</SimpleData>
+                        <SimpleData name="model">Emergency</SimpleData>
+                        <SimpleData name="productid">6</SimpleData>
+                        <SimpleData name="description">Inhalation dose, thyroid, for adults (committed), open air[mSv]</SimpleData>
+                        <SimpleData name="sequence">1</SimpleData>
+                        <SimpleData name="time">2016-02-03T06:52:34Z</SimpleData>
+                        <SimpleData name="value">99.19371</SimpleData>
+                        <SimpleData name="lon">114.4886473904009</SimpleData>
+                        <SimpleData name="lat">22.568708919149877</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Polygon>
+                    <outerBoundaryIs>
+                        <LinearRing>
+                            <tessellate>1</tessellate>
+                            <coordinates>114.48625886420487,22.566414626614808 114.48617699494966,22.570927226307504 114.49103599338525,22.57100319558469 114.49111770479956,22.56649057906772 114.48625886420487,22.566414626614808</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </Placemark>
+            <Placemark id="product_view.fid-4efbc05e_1549daa21a0_6fc5">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#product_view_1">
+                        <SimpleData name="id">738</SimpleData>
+                        <SimpleData name="project">Test15</SimpleData>
+                        <SimpleData name="model">Emergency</SimpleData>
+                        <SimpleData name="productid">6</SimpleData>
+                        <SimpleData name="description">Inhalation dose, thyroid, for adults (committed), open air[mSv]</SimpleData>
+                        <SimpleData name="sequence">1</SimpleData>
+                        <SimpleData name="time">2016-02-03T06:52:34Z</SimpleData>
+                        <SimpleData name="value">63.50733</SimpleData>
+                        <SimpleData name="lon">114.52262883161485</SimpleData>
+                        <SimpleData name="lat">22.569232052738535</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Polygon>
+                    <outerBoundaryIs>
+                        <LinearRing>
+                            <tessellate>1</tessellate>
+                            <coordinates>114.52023968121698,22.566938214491316 114.52015891590585,22.571450931167053 114.52501805884037,22.57152587477103 114.52509866628957,22.567013141498037 114.52023968121698,22.566938214491316</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </Placemark>
+            <Placemark id="product_view.fid-4efbc05e_1549daa21a0_6fc6">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#product_view_1">
+                        <SimpleData name="id">738</SimpleData>
+                        <SimpleData name="project">Test15</SimpleData>
+                        <SimpleData name="model">Emergency</SimpleData>
+                        <SimpleData name="productid">6</SimpleData>
+                        <SimpleData name="description">Inhalation dose, thyroid, for adults (committed), open air[mSv]</SimpleData>
+                        <SimpleData name="sequence">1</SimpleData>
+                        <SimpleData name="time">2016-02-03T06:52:34Z</SimpleData>
+                        <SimpleData name="value">66.90778</SimpleData>
+                        <SimpleData name="lon">114.49338538993293</SimpleData>
+                        <SimpleData name="lat">22.573294560133917</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Polygon>
+                    <outerBoundaryIs>
+                        <LinearRing>
+                            <tessellate>1</tessellate>
+                            <coordinates>114.49099670664465,22.57100032498954 114.49091497315806,22.575512938558898 114.49577415003532,22.5755887791569 114.49585572563785,22.5710761487944 114.49099670664465,22.57100032498954</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </Placemark>
+            <Placemark id="product_view.fid-4efbc05e_1549daa21a0_6fc7">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#product_view_1">
+                        <SimpleData name="id">738</SimpleData>
+                        <SimpleData name="project">Test15</SimpleData>
+                        <SimpleData name="model">Emergency</SimpleData>
+                        <SimpleData name="productid">6</SimpleData>
+                        <SimpleData name="description">Inhalation dose, thyroid, for adults (committed), open air[mSv]</SimpleData>
+                        <SimpleData name="sequence">1</SimpleData>
+                        <SimpleData name="time">2016-02-03T06:52:34Z</SimpleData>
+                        <SimpleData name="value">63.672707</SimpleData>
+                        <SimpleData name="lon">114.50784304626079</SimpleData>
+                        <SimpleData name="lat">22.58254739782789</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Polygon>
+                    <outerBoundaryIs>
+                        <LinearRing>
+                            <tessellate>1</tessellate>
+                            <coordinates>114.50545395703035,22.580253344229835 114.50537265721378,22.58476600260692 114.51023221236268,22.5848414352455 114.51031335420582,22.580328760170858 114.50545395703035,22.580253344229835</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </Placemark>
+        </Folder>
+    </Document>
+</kml>

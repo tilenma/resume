@@ -1,0 +1,428 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:ns2="http://www.google.com/kml/ext/2.2" xmlns:ns3="http://www.w3.org/2005/Atom" xmlns:ns4="urn:oasis:names:tc:ciq:xsdschema:xAL:2.0">
+    <Document>
+        <Schema name="product_view_1" id="product_view_1">
+            <SimpleField type="string" name="id"/>
+            <SimpleField type="string" name="project"/>
+            <SimpleField type="string" name="model"/>
+            <SimpleField type="int" name="productid"/>
+            <SimpleField type="string" name="description"/>
+            <SimpleField type="int" name="sequence"/>
+            <SimpleField type="string" name="time"/>
+            <SimpleField type="float" name="value"/>
+            <SimpleField type="double" name="lon"/>
+            <SimpleField type="double" name="lat"/>
+        </Schema>
+        <Folder>
+            <name>product_view</name>
+            <Placemark id="product_view.fid-4efbc05e_1549daa21a0_6095">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#product_view_1">
+                        <SimpleData name="id">738</SimpleData>
+                        <SimpleData name="project">Test15</SimpleData>
+                        <SimpleData name="model">Emergency</SimpleData>
+                        <SimpleData name="productid">1</SimpleData>
+                        <SimpleData name="description">Sum of ground, cloud and inhalation (committed) dose, effective, normal living</SimpleData>
+                        <SimpleData name="sequence">1</SimpleData>
+                        <SimpleData name="time">2016-02-03T06:52:34Z</SimpleData>
+                        <SimpleData name="value">51.27224</SimpleData>
+                        <SimpleData name="lon">114.51764677126305</SimpleData>
+                        <SimpleData name="lat">22.578183053790458</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Polygon>
+                    <outerBoundaryIs>
+                        <LinearRing>
+                            <tessellate>1</tessellate>
+                            <coordinates>114.51525757206943,22.57588913722317 114.51517660894642,22.580401831785977 114.52003604731914,22.58047695414941 114.52011685250292,22.57596424295508 114.51525757206943,22.57588913722317</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </Placemark>
+            <Placemark id="product_view.fid-4efbc05e_1549daa21a0_6096">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#product_view_1">
+                        <SimpleData name="id">738</SimpleData>
+                        <SimpleData name="project">Test15</SimpleData>
+                        <SimpleData name="model">Emergency</SimpleData>
+                        <SimpleData name="productid">1</SimpleData>
+                        <SimpleData name="description">Sum of ground, cloud and inhalation (committed) dose, effective, normal living</SimpleData>
+                        <SimpleData name="sequence">1</SimpleData>
+                        <SimpleData name="time">2016-02-03T06:52:34Z</SimpleData>
+                        <SimpleData name="value">91.25524</SimpleData>
+                        <SimpleData name="lon">114.53317256069677</SimpleData>
+                        <SimpleData name="lat">22.593092758057914</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Polygon>
+                    <outerBoundaryIs>
+                        <LinearRing>
+                            <tessellate>1</tessellate>
+                            <coordinates>114.53197769479245,22.591945896339585 114.53193745626672,22.594202268086136 114.53436744583765,22.594239615706876 114.53440764484354,22.59198323982794 114.53197769479245,22.591945896339585</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </Placemark>
+            <Placemark id="product_view.fid-4efbc05e_1549daa21a0_6097">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#product_view_1">
+                        <SimpleData name="id">738</SimpleData>
+                        <SimpleData name="project">Test15</SimpleData>
+                        <SimpleData name="model">Emergency</SimpleData>
+                        <SimpleData name="productid">1</SimpleData>
+                        <SimpleData name="description">Sum of ground, cloud and inhalation (committed) dose, effective, normal living</SimpleData>
+                        <SimpleData name="sequence">1</SimpleData>
+                        <SimpleData name="time">2016-02-03T06:52:34Z</SimpleData>
+                        <SimpleData name="value">60.968792</SimpleData>
+                        <SimpleData name="lon">114.53807826695399</SimpleData>
+                        <SimpleData name="lat">22.590911079514747</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Polygon>
+                    <outerBoundaryIs>
+                        <LinearRing>
+                            <tessellate>1</tessellate>
+                            <coordinates>114.53688337357113,22.5897642521227 114.53684321928604,22.592020632840732 114.53927317957232,22.592057902833954 114.5393132943418,22.589801517991813 114.53688337357113,22.5897642521227</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </Placemark>
+            <Placemark id="product_view.fid-4efbc05e_1549daa21a0_6098">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#product_view_1">
+                        <SimpleData name="id">738</SimpleData>
+                        <SimpleData name="project">Test15</SimpleData>
+                        <SimpleData name="model">Emergency</SimpleData>
+                        <SimpleData name="productid">1</SimpleData>
+                        <SimpleData name="description">Sum of ground, cloud and inhalation (committed) dose, effective, normal living</SimpleData>
+                        <SimpleData name="sequence">1</SimpleData>
+                        <SimpleData name="time">2016-02-03T06:52:34Z</SimpleData>
+                        <SimpleData name="value">60.64607</SimpleData>
+                        <SimpleData name="lon">114.53566739074682</SimpleData>
+                        <SimpleData name="lat">22.58861709017747</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Polygon>
+                    <outerBoundaryIs>
+                        <LinearRing>
+                            <tessellate>1</tessellate>
+                            <coordinates>114.53447253706906,22.587470248070122 114.53443234803937,22.589726625325465 114.53686226365683,22.589763928214644 114.53690241317634,22.587507546831237 114.53447253706906,22.587470248070122</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </Placemark>
+            <Placemark id="product_view.fid-4efbc05e_1549daa21a0_6099">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#product_view_1">
+                        <SimpleData name="id">738</SimpleData>
+                        <SimpleData name="project">Test15</SimpleData>
+                        <SimpleData name="model">Emergency</SimpleData>
+                        <SimpleData name="productid">1</SimpleData>
+                        <SimpleData name="description">Sum of ground, cloud and inhalation (committed) dose, effective, normal living</SimpleData>
+                        <SimpleData name="sequence">1</SimpleData>
+                        <SimpleData name="time">2016-02-03T06:52:34Z</SimpleData>
+                        <SimpleData name="value">98.61772</SimpleData>
+                        <SimpleData name="lon">114.52839666933869</SimpleData>
+                        <SimpleData name="lat">22.588507571196484</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Polygon>
+                    <outerBoundaryIs>
+                        <LinearRing>
+                            <tessellate>1</tessellate>
+                            <coordinates>114.52720188241085,22.587360680371027 114.5271615751563,22.589617045249476 114.52959147549667,22.589654457957863 114.52963174324216,22.58739808893921 114.52720188241085,22.587360680371027</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </Placemark>
+            <Placemark id="product_view.fid-4efbc05e_1549daa21a0_609a">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#product_view_1">
+                        <SimpleData name="id">738</SimpleData>
+                        <SimpleData name="project">Test15</SimpleData>
+                        <SimpleData name="model">Emergency</SimpleData>
+                        <SimpleData name="productid">1</SimpleData>
+                        <SimpleData name="description">Sum of ground, cloud and inhalation (committed) dose, effective, normal living</SimpleData>
+                        <SimpleData name="sequence">1</SimpleData>
+                        <SimpleData name="time">2016-02-03T06:52:34Z</SimpleData>
+                        <SimpleData name="value">52.826294</SimpleData>
+                        <SimpleData name="lon">114.53329471262701</SimpleData>
+                        <SimpleData name="lat">22.58632365679541</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Polygon>
+                    <outerBoundaryIs>
+                        <LinearRing>
+                            <tessellate>1</tessellate>
+                            <coordinates>114.532099898299,22.585176800234304 114.53205967515447,22.587433174087884 114.53448954618408,22.587470509288966 114.53452972982379,22.585214131303424 114.532099898299,22.585176800234304</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </Placemark>
+            <Placemark id="product_view.fid-4efbc05e_1549daa21a0_609b">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#product_view_1">
+                        <SimpleData name="id">738</SimpleData>
+                        <SimpleData name="project">Test15</SimpleData>
+                        <SimpleData name="model">Emergency</SimpleData>
+                        <SimpleData name="productid">1</SimpleData>
+                        <SimpleData name="description">Sum of ground, cloud and inhalation (committed) dose, effective, normal living</SimpleData>
+                        <SimpleData name="sequence">1</SimpleData>
+                        <SimpleData name="time">2016-02-03T06:52:34Z</SimpleData>
+                        <SimpleData name="value">86.86562</SimpleData>
+                        <SimpleData name="lon">114.52598574315401</SimpleData>
+                        <SimpleData name="lat">22.58621119271868</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Polygon>
+                    <outerBoundaryIs>
+                        <LinearRing>
+                            <tessellate>1</tessellate>
+                            <coordinates>114.52479099594481,22.585064287196257 114.52475065397203,22.587320648596403 114.52718050959011,22.587358094179727 114.52722081205917,22.585101728635397 114.52479099594481,22.585064287196257</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </Placemark>
+            <Placemark id="product_view.fid-4efbc05e_1549daa21a0_609c">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#product_view_1">
+                        <SimpleData name="id">738</SimpleData>
+                        <SimpleData name="project">Test15</SimpleData>
+                        <SimpleData name="model">Emergency</SimpleData>
+                        <SimpleData name="productid">1</SimpleData>
+                        <SimpleData name="description">Sum of ground, cloud and inhalation (committed) dose, effective, normal living</SimpleData>
+                        <SimpleData name="sequence">1</SimpleData>
+                        <SimpleData name="time">2016-02-03T06:52:34Z</SimpleData>
+                        <SimpleData name="value">52.24377</SimpleData>
+                        <SimpleData name="lon">114.52357485254609</SimpleData>
+                        <SimpleData name="lat">22.58617628003301</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Polygon>
+                    <outerBoundaryIs>
+                        <LinearRing>
+                            <tessellate>1</tessellate>
+                            <coordinates>114.52238012746342,22.585029358363332 114.52233974629083,22.587285715646978 114.52476959685495,22.58732319764334 114.52480993852423,22.58506683621149 114.52238012746342,22.585029358363332</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </Placemark>
+            <Placemark id="product_view.fid-4efbc05e_1549daa21a0_609d">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#product_view_1">
+                        <SimpleData name="id">738</SimpleData>
+                        <SimpleData name="project">Test15</SimpleData>
+                        <SimpleData name="model">Emergency</SimpleData>
+                        <SimpleData name="productid">1</SimpleData>
+                        <SimpleData name="description">Sum of ground, cloud and inhalation (committed) dose, effective, normal living</SimpleData>
+                        <SimpleData name="sequence">1</SimpleData>
+                        <SimpleData name="time">2016-02-03T06:52:34Z</SimpleData>
+                        <SimpleData name="value">79.271454</SimpleData>
+                        <SimpleData name="lon">114.5284728300716</SimpleData>
+                        <SimpleData name="lat">22.583994768103654</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Polygon>
+                    <outerBoundaryIs>
+                        <LinearRing>
+                            <tessellate>1</tessellate>
+                            <coordinates>114.52727807755996,22.582847880687822 114.52723778049045,22.58510424696208 114.52966760180836,22.585141651456645 114.52970785937885,22.582885281042454 114.52727807755996,22.582847880687822</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </Placemark>
+            <Placemark id="product_view.fid-4efbc05e_1549daa21a0_609e">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#product_view_1">
+                        <SimpleData name="id">738</SimpleData>
+                        <SimpleData name="project">Test15</SimpleData>
+                        <SimpleData name="model">Emergency</SimpleData>
+                        <SimpleData name="productid">1</SimpleData>
+                        <SimpleData name="description">Sum of ground, cloud and inhalation (committed) dose, effective, normal living</SimpleData>
+                        <SimpleData name="sequence">1</SimpleData>
+                        <SimpleData name="time">2016-02-03T06:52:34Z</SimpleData>
+                        <SimpleData name="value">89.859825</SimpleData>
+                        <SimpleData name="lon">114.52602393673774</SimpleData>
+                        <SimpleData name="lat">22.583954796135796</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Polygon>
+                    <outerBoundaryIs>
+                        <LinearRing>
+                            <tessellate>1</tessellate>
+                            <coordinates>114.5248292067321,22.58280789232066 114.52478886985794,22.58506425441895 114.52721868596782,22.58510169589016 114.52725898334329,22.582845329647835 114.5248292067321,22.58280789232066</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </Placemark>
+            <Placemark id="product_view.fid-4efbc05e_1549daa21a0_609f">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#product_view_1">
+                        <SimpleData name="id">738</SimpleData>
+                        <SimpleData name="project">Test15</SimpleData>
+                        <SimpleData name="model">Emergency</SimpleData>
+                        <SimpleData name="productid">1</SimpleData>
+                        <SimpleData name="description">Sum of ground, cloud and inhalation (committed) dose, effective, normal living</SimpleData>
+                        <SimpleData name="sequence">1</SimpleData>
+                        <SimpleData name="time">2016-02-03T06:52:34Z</SimpleData>
+                        <SimpleData name="value">75.14799</SimpleData>
+                        <SimpleData name="lon">114.52361293346983</SimpleData>
+                        <SimpleData name="lat">22.583919885190465</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Polygon>
+                    <outerBoundaryIs>
+                        <LinearRing>
+                            <tessellate>1</tessellate>
+                            <coordinates>114.52241822558939,22.58277296522901 114.52237784951797,22.585029323210634 114.52480766057394,22.585066801093202 114.52484799714708,22.58281043896349 114.52241822558939,22.58277296522901</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </Placemark>
+            <Placemark id="product_view.fid-4efbc05e_1549daa21a0_60a0">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#product_view_1">
+                        <SimpleData name="id">738</SimpleData>
+                        <SimpleData name="project">Test15</SimpleData>
+                        <SimpleData name="model">Emergency</SimpleData>
+                        <SimpleData name="productid">1</SimpleData>
+                        <SimpleData name="description">Sum of ground, cloud and inhalation (committed) dose, effective, normal living</SimpleData>
+                        <SimpleData name="sequence">1</SimpleData>
+                        <SimpleData name="time">2016-02-03T06:52:34Z</SimpleData>
+                        <SimpleData name="value">50.814</SimpleData>
+                        <SimpleData name="lon">114.5211638583047</SimpleData>
+                        <SimpleData name="lat">22.583882093280746</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Polygon>
+                    <outerBoundaryIs>
+                        <LinearRing>
+                            <tessellate>1</tessellate>
+                            <coordinates>114.51996917291916,22.582735156921668 114.51992875703627,22.58499151071816 114.5223585629133,22.585029025583168 114.52239893929821,22.582772667634483 114.51996917291916,22.582735156921668</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </Placemark>
+            <Placemark id="product_view.fid-4efbc05e_1549daa21a0_60a1">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#product_view_1">
+                        <SimpleData name="id">738</SimpleData>
+                        <SimpleData name="project">Test15</SimpleData>
+                        <SimpleData name="model">Emergency</SimpleData>
+                        <SimpleData name="productid">1</SimpleData>
+                        <SimpleData name="description">Sum of ground, cloud and inhalation (committed) dose, effective, normal living</SimpleData>
+                        <SimpleData name="sequence">1</SimpleData>
+                        <SimpleData name="time">2016-02-03T06:52:34Z</SimpleData>
+                        <SimpleData name="value">62.73865</SimpleData>
+                        <SimpleData name="lon">114.52606197340032</SimpleData>
+                        <SimpleData name="lat">22.58169839651877</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Polygon>
+                    <outerBoundaryIs>
+                        <LinearRing>
+                            <tessellate>1</tessellate>
+                            <coordinates>114.5248672605972,22.580551494409843 114.52482692881891,22.58280785720596 114.52725670542532,22.582845294567527 114.52729699770995,22.58058892762752 114.5248672605972,22.580551494409843</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </Placemark>
+            <Placemark id="product_view.fid-4efbc05e_1549daa21a0_60a2">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#product_view_1">
+                        <SimpleData name="id">738</SimpleData>
+                        <SimpleData name="project">Test15</SimpleData>
+                        <SimpleData name="model">Emergency</SimpleData>
+                        <SimpleData name="productid">1</SimpleData>
+                        <SimpleData name="description">Sum of ground, cloud and inhalation (committed) dose, effective, normal living</SimpleData>
+                        <SimpleData name="sequence">1</SimpleData>
+                        <SimpleData name="time">2016-02-03T06:52:34Z</SimpleData>
+                        <SimpleData name="value">72.05643</SimpleData>
+                        <SimpleData name="lon">114.52365116119165</SimpleData>
+                        <SimpleData name="lat">22.58166349199586</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Polygon>
+                    <outerBoundaryIs>
+                        <LinearRing>
+                            <tessellate>1</tessellate>
+                            <coordinates>114.52245647050971,22.580516573743605 114.52241609954153,22.582772932423424 114.52484587109473,22.582810406189996 114.52488620256959,22.580554043362216 114.52245647050971,22.580516573743605</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </Placemark>
+            <Placemark id="product_view.fid-4efbc05e_1549daa21a0_60a3">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#product_view_1">
+                        <SimpleData name="id">738</SimpleData>
+                        <SimpleData name="project">Test15</SimpleData>
+                        <SimpleData name="model">Emergency</SimpleData>
+                        <SimpleData name="productid">1</SimpleData>
+                        <SimpleData name="description">Sum of ground, cloud and inhalation (committed) dose, effective, normal living</SimpleData>
+                        <SimpleData name="sequence">1</SimpleData>
+                        <SimpleData name="time">2016-02-03T06:52:34Z</SimpleData>
+                        <SimpleData name="value">64.2675</SimpleData>
+                        <SimpleData name="lon">114.52120212584015</SimpleData>
+                        <SimpleData name="lat">22.58162570423679</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Polygon>
+                    <outerBoundaryIs>
+                        <LinearRing>
+                            <tessellate>1</tessellate>
+                            <coordinates>114.5200074576504,22.580478769588883 114.51996704687582,22.58273512408371 114.52239681325038,22.582772634828654 114.52243718453204,22.580516276181775 114.5200074576504,22.580478769588883</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </Placemark>
+            <Placemark id="product_view.fid-4efbc05e_1549daa21a0_60a4">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#product_view_1">
+                        <SimpleData name="id">738</SimpleData>
+                        <SimpleData name="project">Test15</SimpleData>
+                        <SimpleData name="model">Emergency</SimpleData>
+                        <SimpleData name="productid">1</SimpleData>
+                        <SimpleData name="description">Sum of ground, cloud and inhalation (committed) dose, effective, normal living</SimpleData>
+                        <SimpleData name="sequence">1</SimpleData>
+                        <SimpleData name="time">2016-02-03T06:52:34Z</SimpleData>
+                        <SimpleData name="value">50.713642</SimpleData>
+                        <SimpleData name="lon">114.5236968248414</SimpleData>
+                        <SimpleData name="lat">22.579407212851034</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Polygon>
+                    <outerBoundaryIs>
+                        <LinearRing>
+                            <tessellate>1</tessellate>
+                            <coordinates>114.52250215128736,22.578260296357747 114.522461785543,22.580516655748433 114.52489151761414,22.580554125286806 114.5249318438702,22.578297761748306 114.52250215128736,22.578260296357747</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </Placemark>
+            <Placemark id="product_view.fid-4efbc05e_1549daa21a0_60a5">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#product_view_1">
+                        <SimpleData name="id">738</SimpleData>
+                        <SimpleData name="project">Test15</SimpleData>
+                        <SimpleData name="model">Emergency</SimpleData>
+                        <SimpleData name="productid">1</SimpleData>
+                        <SimpleData name="description">Sum of ground, cloud and inhalation (committed) dose, effective, normal living</SimpleData>
+                        <SimpleData name="sequence">1</SimpleData>
+                        <SimpleData name="time">2016-02-03T06:52:34Z</SimpleData>
+                        <SimpleData name="value">58.926094</SimpleData>
+                        <SimpleData name="lon">114.52124023644784</SimpleData>
+                        <SimpleData name="lat">22.57936931215417</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Polygon>
+                    <outerBoundaryIs>
+                        <LinearRing>
+                            <tessellate>1</tessellate>
+                            <coordinates>114.52004558545293,22.578222379216378 114.52000517978385,22.580478734409226 114.5224349066607,22.580516241036502 114.52247527284186,22.578259881691746 114.52004558545293,22.578222379216378</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </Placemark>
+        </Folder>
+    </Document>
+</kml>
