@@ -43,7 +43,7 @@
 						<!-- 
 						<img src="img.jpg" alt="John" style="width: 100%"> -->
 						<div class="content2">
-							<h2>2020-02-03 to ${now }</h2>
+							<h2>2020-02-03 to 2022-04-24</h2>
 							<h1>Technical Lead</h1>
 							<p class="title"><a href="https://www.sunlife.com" target="_blank">Sun Life Hong Kong Limited</a></p>
 							<p class="title">Digital IT</p>

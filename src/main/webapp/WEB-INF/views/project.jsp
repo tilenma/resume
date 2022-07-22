@@ -122,7 +122,7 @@
 					<p>5 team members (1 Technical Lead, 1 System Analyst, 1 Business Analyst, 1 Programmer, 1 Tester)</p>
 					
 					<div class="contentsubtitle">My Participated Duration</div>
-					<p>7 months</p>					
+					<p>14 months</p>					
 				</div>				
 				<div id="clots" class="tab-pane fade">
 					<h4 class="projectdesc2">Class Licence for Offer of Telecommunications Services (CLOTS)

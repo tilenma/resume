@@ -126,16 +126,15 @@ public class HomeController {
 		
 		Calendar cal = Calendar.getInstance();
 		Calendar cal2 = Calendar.getInstance();
-		Calendar cal3 = Calendar.getInstance();
+		
+		//set end date of sunlife
+		cal2.set(2022, 3, 24); //
 		
 		String now = "";
 		try{
 			Date startWork = new Date();
 			startWork =	DateUtil.parseDate("2007-06-01");			
 			cal.setTime(startWork);
-			
-			Date startProject =	DateUtil.parseDate("2016-12-12");			
-			cal3.setTime(startProject);
 			
 			now = DateUtil.formatDate5(date);
 		}catch(ParseException e){
@@ -148,10 +147,6 @@ public class HomeController {
 		model.addAttribute("workYear", diffYear );
 		model.addAttribute("workMonth", diffMonth );
 		model.addAttribute("totalDay", totalDay );
-		
-		diffMonth = DateUtil.monthsBetween(cal3.getTime(), cal2.getTime());
-		model.addAttribute("projectMonth", diffMonth );
-		
 		model.addAttribute("now", now);
 	}
 }
