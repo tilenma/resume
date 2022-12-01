@@ -126,9 +126,14 @@ public class HomeController {
 		
 		Calendar cal = Calendar.getInstance();
 		Calendar cal2 = Calendar.getInstance();
+		Calendar cal3 = Calendar.getInstance();
+		Calendar cal4 = Calendar.getInstance(); //now
 		
 		//set end date of sunlife
 		cal2.set(2022, 3, 24); //
+		
+		//set start date of nab
+		cal3.set(2022, 7, 15);
 		
 		String now = "";
 		try{
@@ -140,9 +145,13 @@ public class HomeController {
 		}catch(ParseException e){
 			e.printStackTrace();
 		}
-		int diffYear = DateUtil.yearsBetween(cal.getTime(), cal2.getTime());
-		int diffMonth = DateUtil.monthsBetween(cal.getTime(), cal2.getTime()) - diffYear * 12;
-		int totalDay = DateUtil.daysBetween(cal.getTime(), cal2.getTime());
+		
+		int gapday = DateUtil.daysBetween(cal2.getTime(), cal3.getTime());
+		cal4.add(Calendar.DAY_OF_MONTH, -1*gapday); //Now - gap day
+		
+		int diffYear = DateUtil.yearsBetween(cal.getTime(), cal4.getTime());
+		int diffMonth = DateUtil.monthsBetween(cal.getTime(), cal4.getTime()) - diffYear * 12;
+		int totalDay = DateUtil.daysBetween(cal.getTime(), cal4.getTime());
 		
 		model.addAttribute("workYear", diffYear );
 		model.addAttribute("workMonth", diffMonth );

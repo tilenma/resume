@@ -6,7 +6,7 @@
 	<artifactId>project</artifactId>
 	<name>Resume</name>
 	<packaging>war</packaging>
-	<version>3.0.3-BUILD-SNAPSHOT</version>
+	<version>3.0.4-BUILD-SNAPSHOT</version>
 	<properties>
 		<java-version>1.8</java-version>
 		<org.springframework-version>4.3.15.RELEASE</org.springframework-version>
