@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml"
+	xmlns:th="https://www.thymeleaf.org">
+<head>
+<meta charset="UTF-8" />
+<div th:replace="fragments/head-fragment :: head"></div>
+<title>Tilen Ma's Online Resume</title>
+
+</head>
+<body>
+	<div th:replace="fragments/header :: header"></div>
+	<div class="container-fluid">
+		<div class="alert alert-info">
+			<p th:text="${message}">My IT Experience: 15+ year</p>
+		</div>
+	</div>
+	<!-- Carousel -->
+	<div id="home" class="carousel slide" data-bs-ride="carousel">
+
+		<!-- Indicators/dots -->
+		<div class="carousel-indicators">
+			<button type="button" data-bs-target="#home" data-bs-slide-to="0"
+				class="active"></button>
+			<button type="button" data-bs-target="#home" data-bs-slide-to="1"></button>
+			<button type="button" data-bs-target="#home" data-bs-slide-to="2"></button>
+		</div>
+
+		<!-- The slideshow/carousel -->
+		<div class="carousel-inner">
+			<div class="carousel-item active">
+				<img th:src="@{/images/leadership.jpeg}" alt="Leader"
+					class="d-block w-100" />
+				<div class="carousel-caption">
+					<h3>Technical Lead / Senior Engineer</h3>
+					<p>
+						<b>Leading a team:</b> deliver IT projects under best practices
+					</p>
+					<p>
+						Skills: <span class="badge bg-success">PMP</span> <span
+							class="badge bg-success">Scrum Master</span> <span
+							class="badge bg-success">Agile</span> <span
+							class="badge bg-success">Full SDLC</span>
+					</p>
+					<p class="expire">7+ year of project management experience</p>
+				</div>
+			</div>
+			<div class="carousel-item">
+				<div class="coupon">
+					<img th:src="@{/images/design.jpeg}" alt="System Analyst"
+						class="d-block w-100" />
+
+					<div class="carousel-caption">
+						<h3>System Analyst / Solution Architect</h3>
+						<p>
+							<b>Design and Develop:</b> deliver applications satisfying
+							clients' needs and quality expectation
+						</p>
+						<p>
+							Skills: <span class="badge bg-success">Certified Architect</span>
+							<span class="badge bg-success">AWS certified</span> <span
+								class="badge bg-success">System Design</span> <span
+								class="badge bg-success">Code review</span>
+						</p>
+						<p class="expire">15+ year in application design and
+							development</p>
+						<p class="expire">11+ year in Java-based web application</p>
+					</div>
+				</div>
+			</div>
+			<div class="carousel-item">
+				<img th:src="@{/images/learning.jpeg}" alt="Fast Learner"
+					class="d-block w-100" />
+				<div class="carousel-caption">
+					<h3>Fast Learner</h3>
+					<p>
+						<b>Keep advancing:</b> adopt new technology and skills
+						passionately
+					</p>
+					<p>
+						Skills: <span class="badge bg-success">Proof of Concepts</span> <span
+							class="badge bg-success">Self learning</span> <span
+							class="badge bg-success">Apply</span> <span
+							class="badge bg-success">Open Source Tools</span>
+					</p>
+					<p class="expire">Keep learning and apply project management,
+						leadership and architecture skills</p>
+				</div>
+
+			</div>
+		</div>
+	</div>
+
+	<!-- Left and right controls/icons -->
+	<button class="carousel-control-prev" type="button"
+		data-bs-target="#home" data-bs-slide="prev">
+		<span class="carousel-control-prev-icon"></span>
+	</button>
+	<button class="carousel-control-next" type="button"
+		data-bs-target="#home" data-bs-slide="next">
+		<span class="carousel-control-next-icon"></span>
+	</button>
+</body>
+</html>
